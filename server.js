@@ -1,6 +1,9 @@
 const express = require('express')
 const bodyParser = require('body-parser')
+require('dotenv').config()
+
 const documentSplitter = require('./documentSplitter')
+const runOCR = require('./ocr/runOCR')
 
 const app = express()
 const port = 3000
@@ -17,6 +20,8 @@ app.get('/', (_, res) => {
 app.post('/analyze', async (req, res) => {
   const { pdf, companyName } = req.body
 
+  res.status(200).send('Analyzing...')
+
   console.log({ companyName })
   console.log('pdf as base64 ', pdf.slice(0, 50))
 
@@ -29,7 +34,11 @@ app.post('/analyze', async (req, res) => {
   console.log({ pages })
   console.log({ numberOfPages })
 
-  res.status(200).send('Analyzing...')
+  const ocrPages = await runOCR(pages)
+
+  console.log({ ocrPages })
+
+  // send this back to a url provided
 })
 
 app.listen(port, () => {
