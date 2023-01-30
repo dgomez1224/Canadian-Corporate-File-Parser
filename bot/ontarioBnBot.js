@@ -25,19 +25,14 @@ const ontarioBNBot = async (companyName) => {
 
   const searches = await page.$$('.mras-primary-card .ng-star-inserted')
 
-  const bns = await page.$$('.info .info--business-number')
+  for (const search of searches) {
+    const bn = await page.evaluate(
+      (el) => el.querySelector('span').textContent,
+      search,
+    )
 
-  console.log({ bns })
-
-  // for (const search of searches) {
-  //   const bn = await page.evaluate((el) => {
-  //     const select = el.querySelector('.info .info--business-number')
-  //     console.log('here')
-  //     console.log({ select })
-  //   }, search)
-
-  //   console.log({ bn })
-  // }
+    console.log({ bn })
+  }
 
   // extract BN number
 
