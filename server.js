@@ -4,6 +4,7 @@ require('dotenv').config()
 
 const documentSplitter = require('./documentSplitter')
 const runOCR = require('./ocr/runOCR')
+const ontarioBNBot = require('./bot/ontarioBnBot')
 
 const app = express()
 const port = 3000
@@ -39,6 +40,15 @@ app.post('/analyze', async (req, res) => {
   console.log({ ocrPages })
 
   // send this back to a url provided
+})
+
+app.post('/test-bot', async (req, res) => {
+  const { companyName } = req.body
+  console.log('Testing bot for ', companyName)
+
+  res.status(200).send('Testing bot...')
+
+  await ontarioBNBot(companyName)
 })
 
 app.listen(port, () => {
