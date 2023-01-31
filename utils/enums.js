@@ -1,0 +1,5 @@
+exports.PROVINCES = {
+  AB: 'ALBERTA',
+  BC: 'BRITISH_COLUMBIA',
+  ON: 'ONTARIO',
+}
