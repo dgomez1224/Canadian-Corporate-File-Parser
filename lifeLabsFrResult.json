@@ -1,0 +1,3093 @@
+{
+    "STATUS": {
+      "kind": "string",
+      "value": "ACTIVE",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            {
+              "x": 3.7812,
+              "y": 3.4598
+            },
+            {
+              "x": 4.4814,
+              "y": 3.4598
+            },
+            {
+              "x": 4.4814,
+              "y": 3.6066
+            },
+            {
+              "x": 3.7812,
+              "y": 3.6066
+            }
+          ]
+        }
+      ],
+      "content": "ACTIVE",
+      "spans": [
+        {
+          "offset": 298,
+          "length": 6
+        }
+      ],
+      "confidence": 0.987
+    },
+    "BASE_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Date and Time of Search:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2478,
+                      "y": 2.6473
+                    },
+                    {
+                      "x": 2.0561,
+                      "y": 2.6473
+                    },
+                    {
+                      "x": 2.0561,
+                      "y": 2.7627
+                    },
+                    {
+                      "x": 0.2478,
+                      "y": 2.7627
+                    }
+                  ]
+                }
+              ],
+              "content": "Date and Time of Search:",
+              "spans": [
+                {
+                  "offset": 203,
+                  "length": 24
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "October 05, 2022 11:10 AM Pacific Time",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.6051,
+                      "y": 2.6489
+                    },
+                    {
+                      "x": 5.4642,
+                      "y": 2.6489
+                    },
+                    {
+                      "x": 5.4642,
+                      "y": 2.7854
+                    },
+                    {
+                      "x": 2.6051,
+                      "y": 2.7854
+                    }
+                  ]
+                }
+              ],
+              "content": "October 05, 2022 11:10 AM Pacific Time",
+              "spans": [
+                {
+                  "offset": 228,
+                  "length": 38
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Currency Date:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2429,
+                      "y": 2.8979
+                    },
+                    {
+                      "x": 1.3174,
+                      "y": 2.8979
+                    },
+                    {
+                      "x": 1.3174,
+                      "y": 3.0431
+                    },
+                    {
+                      "x": 0.2429,
+                      "y": 3.0431
+                    }
+                  ]
+                }
+              ],
+              "content": "Currency Date:",
+              "spans": [
+                {
+                  "offset": 267,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "August 04, 2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.6005,
+                      "y": 2.9008
+                    },
+                    {
+                      "x": 3.7036,
+                      "y": 2.9008
+                    },
+                    {
+                      "x": 3.7036,
+                      "y": 3.044
+                    },
+                    {
+                      "x": 2.6005,
+                      "y": 3.044
+                    }
+                  ]
+                }
+              ],
+              "content": "August 04, 2022",
+              "spans": [
+                {
+                  "offset": 282,
+                  "length": 15
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Incorporation Number:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.246,
+                      "y": 3.7858
+                    },
+                    {
+                      "x": 1.8775,
+                      "y": 3.7858
+                    },
+                    {
+                      "x": 1.8775,
+                      "y": 3.928
+                    },
+                    {
+                      "x": 0.246,
+                      "y": 3.928
+                    }
+                  ]
+                }
+              ],
+              "content": "Incorporation Number:",
+              "spans": [
+                {
+                  "offset": 305,
+                  "length": 21
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "BC1281090",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4541,
+                      "y": 3.7446
+                    },
+                    {
+                      "x": 3.2438,
+                      "y": 3.7446
+                    },
+                    {
+                      "x": 3.2438,
+                      "y": 3.8599
+                    },
+                    {
+                      "x": 2.4541,
+                      "y": 3.8599
+                    }
+                  ]
+                }
+              ],
+              "content": "BC1281090",
+              "spans": [
+                {
+                  "offset": 327,
+                  "length": 9
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Name of Company:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2467,
+                      "y": 4.0345
+                    },
+                    {
+                      "x": 1.6144,
+                      "y": 4.0345
+                    },
+                    {
+                      "x": 1.6144,
+                      "y": 4.1797
+                    },
+                    {
+                      "x": 0.2467,
+                      "y": 4.1797
+                    }
+                  ]
+                }
+              ],
+              "content": "Name of Company:",
+              "spans": [
+                {
+                  "offset": 337,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "LIFELABS BC INC.",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4544,
+                      "y": 3.9952
+                    },
+                    {
+                      "x": 3.7456,
+                      "y": 3.9952
+                    },
+                    {
+                      "x": 3.7456,
+                      "y": 4.1105
+                    },
+                    {
+                      "x": 2.4544,
+                      "y": 4.1105
+                    }
+                  ]
+                }
+              ],
+              "content": "LIFELABS BC INC.",
+              "spans": [
+                {
+                  "offset": 354,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Business Number:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2478,
+                      "y": 4.287
+                    },
+                    {
+                      "x": 1.5721,
+                      "y": 4.287
+                    },
+                    {
+                      "x": 1.5721,
+                      "y": 4.3997
+                    },
+                    {
+                      "x": 0.2478,
+                      "y": 4.3997
+                    }
+                  ]
+                }
+              ],
+              "content": "Business Number:",
+              "spans": [
+                {
+                  "offset": 371,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "837455922 BC0003",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4486,
+                      "y": 4.2458
+                    },
+                    {
+                      "x": 3.7966,
+                      "y": 4.2458
+                    },
+                    {
+                      "x": 3.7966,
+                      "y": 4.3611
+                    },
+                    {
+                      "x": 2.4486,
+                      "y": 4.3611
+                    }
+                  ]
+                }
+              ],
+              "content": "837455922 BC0003",
+              "spans": [
+                {
+                  "offset": 388,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Recognition Date and Time:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2478,
+                      "y": 4.5376
+                    },
+                    {
+                      "x": 2.2426,
+                      "y": 4.5376
+                    },
+                    {
+                      "x": 2.2426,
+                      "y": 4.6813
+                    },
+                    {
+                      "x": 0.2478,
+                      "y": 4.6813
+                    }
+                  ]
+                }
+              ],
+              "content": "Recognition Date and Time:",
+              "spans": [
+                {
+                  "offset": 405,
+                  "length": 26
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "January 01, 2021 12:01 AM Pacific Time as a result of an",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4848,
+                      "y": 4.5371
+                    },
+                    {
+                      "x": 6.353,
+                      "y": 4.5371
+                    },
+                    {
+                      "x": 6.353,
+                      "y": 4.6809
+                    },
+                    {
+                      "x": 2.4848,
+                      "y": 4.6809
+                    }
+                  ]
+                }
+              ],
+              "content": "January 01, 2021 12:01 AM Pacific Time as a result of an",
+              "spans": [
+                {
+                  "offset": 432,
+                  "length": 56
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "In Liquidation:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 6.453,
+                      "y": 4.5376
+                    },
+                    {
+                      "x": 7.4819,
+                      "y": 4.5376
+                    },
+                    {
+                      "x": 7.4819,
+                      "y": 4.6798
+                    },
+                    {
+                      "x": 6.453,
+                      "y": 4.6798
+                    }
+                  ]
+                }
+              ],
+              "content": "In Liquidation:",
+              "spans": [
+                {
+                  "offset": 489,
+                  "length": 15
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "No Amalgamation",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4843,
+                      "y": 4.5386
+                    },
+                    {
+                      "x": 7.7766,
+                      "y": 4.5386
+                    },
+                    {
+                      "x": 7.7766,
+                      "y": 4.8537
+                    },
+                    {
+                      "x": 2.4843,
+                      "y": 4.8537
+                    }
+                  ]
+                }
+              ],
+              "content": "No Amalgamation",
+              "spans": [
+                {
+                  "offset": 505,
+                  "length": 15
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Last Annual Report Filed:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2478,
+                      "y": 4.96
+                    },
+                    {
+                      "x": 2.0813,
+                      "y": 4.96
+                    },
+                    {
+                      "x": 2.0813,
+                      "y": 5.1023
+                    },
+                    {
+                      "x": 0.2478,
+                      "y": 5.1023
+                    }
+                  ]
+                }
+              ],
+              "content": "Last Annual Report Filed:",
+              "spans": [
+                {
+                  "offset": 521,
+                  "length": 25
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "January 01, 2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.4848,
+                      "y": 4.9611
+                    },
+                    {
+                      "x": 3.6552,
+                      "y": 4.9611
+                    },
+                    {
+                      "x": 3.6552,
+                      "y": 5.1033
+                    },
+                    {
+                      "x": 2.4848,
+                      "y": 5.1033
+                    }
+                  ]
+                }
+              ],
+              "content": "January 01, 2022",
+              "spans": [
+                {
+                  "offset": 547,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Receiver:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 6.4549,
+                      "y": 4.96
+                    },
+                    {
+                      "x": 7.1172,
+                      "y": 4.96
+                    },
+                    {
+                      "x": 7.1172,
+                      "y": 5.0728
+                    },
+                    {
+                      "x": 6.4549,
+                      "y": 5.0728
+                    }
+                  ]
+                }
+              ],
+              "content": "Receiver:",
+              "spans": [
+                {
+                  "offset": 564,
+                  "length": 9
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "No",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 7.5983,
+                      "y": 4.9611
+                    },
+                    {
+                      "x": 7.7766,
+                      "y": 4.9611
+                    },
+                    {
+                      "x": 7.7766,
+                      "y": 5.0728
+                    },
+                    {
+                      "x": 7.5983,
+                      "y": 5.0728
+                    }
+                  ]
+                }
+              ],
+              "content": "No",
+              "spans": [
+                {
+                  "offset": 574,
+                  "length": 2
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "REGISTERED_OFFICE_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2414,
+                      "y": 7.3408
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 7.3408
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 7.7999
+                    },
+                    {
+                      "x": 0.2414,
+                      "y": 7.7999
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+              "spans": [
+                {
+                  "offset": 790,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 3.9816,
+                      "y": 7.3408
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 7.3408
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 7.7999
+                    },
+                    {
+                      "x": 3.9816,
+                      "y": 7.7999
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+              "spans": [
+                {
+                  "offset": 851,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "RECORDS_OFFICE_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "2900 - 550 BURRARD STREET VANCOUVER BC V6C 0A3 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2393,
+                      "y": 8.739
+                    },
+                    {
+                      "x": 2.4075,
+                      "y": 8.739
+                    },
+                    {
+                      "x": 2.4075,
+                      "y": 9.1981
+                    },
+                    {
+                      "x": 0.2393,
+                      "y": 9.1981
+                    }
+                  ]
+                }
+              ],
+              "content": "2900 - 550 BURRARD STREET\nVANCOUVER BC V6C 0A3\nCANADA",
+              "spans": [
+                {
+                  "offset": 938,
+                  "length": 53
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "2900 550 BURRARD STREET VANCOUVER BC V6C 0A3 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 3.9794,
+                      "y": 8.739
+                    },
+                    {
+                      "x": 6.1476,
+                      "y": 8.739
+                    },
+                    {
+                      "x": 6.1476,
+                      "y": 9.1981
+                    },
+                    {
+                      "x": 3.9794,
+                      "y": 9.1981
+                    }
+                  ]
+                }
+              ],
+              "content": "2900\n550 BURRARD STREET\nVANCOUVER BC V6C 0A3\nCANADA",
+              "spans": [
+                {
+                  "offset": 1010,
+                  "length": 4
+                },
+                {
+                  "offset": 1017,
+                  "length": 46
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "DIRECTOR_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Cudlipp, Jennifer",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2036,
+                      "y": 0.7902
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 0.7902
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 0.9343
+                    },
+                    {
+                      "x": 0.2036,
+                      "y": 0.9343
+                    }
+                  ]
+                }
+              ],
+              "content": "Cudlipp, Jennifer",
+              "spans": [
+                {
+                  "offset": 1182,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2414,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 1.688
+                    },
+                    {
+                      "x": 0.2414,
+                      "y": 1.688
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 1217,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9816,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 1.688
+                    },
+                    {
+                      "x": 3.9816,
+                      "y": 1.688
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+              "spans": [
+                {
+                  "offset": 1278,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "OFFICER_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Aube, Carl",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.199,
+                      "y": 2.6849
+                    },
+                    {
+                      "x": 0.9083,
+                      "y": 2.6849
+                    },
+                    {
+                      "x": 0.9083,
+                      "y": 2.8198
+                    },
+                    {
+                      "x": 0.199,
+                      "y": 2.8198
+                    }
+                  ]
+                }
+              ],
+              "content": "Aube, Carl",
+              "spans": [
+                {
+                  "offset": 1400,
+                  "length": 10
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 2.8962
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 2.8962
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 3.0402
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 3.0402
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 1427,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 3.3742
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.3742
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.8333
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 3.8333
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD.\nTORONTO ON M9W 6J6\nCANADA",
+              "spans": [
+                {
+                  "offset": 1462,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 3.3742
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.3742
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.8333
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 3.8333
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD.\nTORONTO ON M9W 6J6\nCANADA",
+              "spans": [
+                {
+                  "offset": 1530,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Bahrami, Haleh",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2082,
+                      "y": 4.3262
+                    },
+                    {
+                      "x": 1.2397,
+                      "y": 4.3262
+                    },
+                    {
+                      "x": 1.2397,
+                      "y": 4.4582
+                    },
+                    {
+                      "x": 0.2082,
+                      "y": 4.4582
+                    }
+                  ]
+                }
+              ],
+              "content": "Bahrami, Haleh",
+              "spans": [
+                {
+                  "offset": 1616,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 4.5345
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 4.5345
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 4.6786
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 4.6786
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 1708,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2414,
+                      "y": 5.0125
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 5.0125
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 5.4716
+                    },
+                    {
+                      "x": 0.2414,
+                      "y": 5.4716
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 1743,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9816,
+                      "y": 5.0125
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 5.0125
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 5.4716
+                    },
+                    {
+                      "x": 3.9816,
+                      "y": 5.4716
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 1649,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Brown, Charles",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2082,
+                      "y": 5.9616
+                    },
+                    {
+                      "x": 1.2356,
+                      "y": 5.9616
+                    },
+                    {
+                      "x": 1.2356,
+                      "y": 6.0965
+                    },
+                    {
+                      "x": 0.2082,
+                      "y": 6.0965
+                    }
+                  ]
+                }
+              ],
+              "content": "Brown, Charles",
+              "spans": [
+                {
+                  "offset": 1822,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(CEO, President)",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 6.1728
+                    },
+                    {
+                      "x": 2.5306,
+                      "y": 6.1728
+                    },
+                    {
+                      "x": 2.5306,
+                      "y": 6.3169
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 6.3169
+                    }
+                  ]
+                }
+              ],
+              "content": "(CEO, President)",
+              "spans": [
+                {
+                  "offset": 1853,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 6.6509
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 6.6509
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 7.11
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 7.11
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 1955,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 6.6509
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 6.6509
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 7.11
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 7.11
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 1905,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Carson, Christopher",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2036,
+                      "y": 7.6
+                    },
+                    {
+                      "x": 1.5636,
+                      "y": 7.6
+                    },
+                    {
+                      "x": 1.5636,
+                      "y": 7.744
+                    },
+                    {
+                      "x": 0.2036,
+                      "y": 7.744
+                    }
+                  ]
+                }
+              ],
+              "content": "Carson, Christopher",
+              "spans": [
+                {
+                  "offset": 2041,
+                  "length": 19
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 7.8112
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 7.8112
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 7.9553
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 7.9553
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 2077,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BOULEVARD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 8.2892
+                    },
+                    {
+                      "x": 2.7334,
+                      "y": 8.2892
+                    },
+                    {
+                      "x": 2.7334,
+                      "y": 8.7483
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 8.7483
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BOULEVARD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2184,
+                  "length": 53
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BOULEVARD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 8.2892
+                    },
+                    {
+                      "x": 6.4735,
+                      "y": 8.2892
+                    },
+                    {
+                      "x": 6.4735,
+                      "y": 8.7483
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 8.7483
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BOULEVARD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2113,
+                  "length": 53
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Cudlipp, Jennifer",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2036,
+                      "y": 9.2383
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 9.2383
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 9.3824
+                    },
+                    {
+                      "x": 0.2036,
+                      "y": 9.3824
+                    }
+                  ]
+                }
+              ],
+              "content": "Cudlipp, Jennifer",
+              "spans": [
+                {
+                  "offset": 2274,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 9.4495
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 9.4495
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 9.5936
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 9.5936
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 2308,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2414,
+                      "y": 9.9276
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 9.9276
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 10.3867
+                    },
+                    {
+                      "x": 0.2414,
+                      "y": 10.3867
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 2343,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9816,
+                      "y": 9.9276
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 9.9276
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 10.3867
+                    },
+                    {
+                      "x": 3.9816,
+                      "y": 10.3867
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 2404,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Desloges, Nicole",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2092,
+                      "y": 0.7792
+                    },
+                    {
+                      "x": 1.3369,
+                      "y": 0.7792
+                    },
+                    {
+                      "x": 1.3369,
+                      "y": 0.9224
+                    },
+                    {
+                      "x": 0.2092,
+                      "y": 0.9224
+                    }
+                  ]
+                }
+              ],
+              "content": "Desloges, Nicole",
+              "spans": [
+                {
+                  "offset": 2506,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 0.9876
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 0.9876
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 1.1316
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 1.1316
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 2539,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 1.9247
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 1.9247
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2574,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 1.9247
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 1.9247
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2642,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Don-Wauchope, Andrew",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2092,
+                      "y": 2.4176
+                    },
+                    {
+                      "x": 1.8591,
+                      "y": 2.4176
+                    },
+                    {
+                      "x": 1.8591,
+                      "y": 2.5588
+                    },
+                    {
+                      "x": 0.2092,
+                      "y": 2.5588
+                    }
+                  ]
+                }
+              ],
+              "content": "Don-Wauchope, Andrew",
+              "spans": [
+                {
+                  "offset": 2728,
+                  "length": 20
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 2.6259
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 2.6259
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 2.77
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 2.77
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 2765,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.563
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 3.563
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2868,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.563
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 3.563
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 2801,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Dulude, Maryse",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2092,
+                      "y": 4.0559
+                    },
+                    {
+                      "x": 1.2605,
+                      "y": 4.0559
+                    },
+                    {
+                      "x": 1.2605,
+                      "y": 4.1982
+                    },
+                    {
+                      "x": 0.2092,
+                      "y": 4.1982
+                    }
+                  ]
+                }
+              ],
+              "content": "Dulude, Maryse",
+              "spans": [
+                {
+                  "offset": 2954,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 4.2643
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 4.2643
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 4.4083
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 4.4083
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 2985,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 4.7423
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 4.7423
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 5.2014
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 5.2014
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3088,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 4.7423
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 4.7423
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 5.2014
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 5.2014
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3021,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Mahan, Lawrence",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.208,
+                      "y": 5.6943
+                    },
+                    {
+                      "x": 1.405,
+                      "y": 5.6943
+                    },
+                    {
+                      "x": 1.405,
+                      "y": 5.8263
+                    },
+                    {
+                      "x": 0.208,
+                      "y": 5.8263
+                    }
+                  ]
+                }
+              ],
+              "content": "Mahan, Lawrence",
+              "spans": [
+                {
+                  "offset": 3174,
+                  "length": 15
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 5.9026
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 5.9026
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 6.0467
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 6.0467
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 3206,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 6.3806
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 6.3806
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 6.8397
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 6.8397
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3309,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 6.3806
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 6.3806
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 6.8397
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 6.8397
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3242,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Martin, Kelly",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.208,
+                      "y": 7.3326
+                    },
+                    {
+                      "x": 1.0356,
+                      "y": 7.3326
+                    },
+                    {
+                      "x": 1.0356,
+                      "y": 7.4749
+                    },
+                    {
+                      "x": 0.208,
+                      "y": 7.4749
+                    }
+                  ]
+                }
+              ],
+              "content": "Martin, Kelly",
+              "spans": [
+                {
+                  "offset": 3395,
+                  "length": 13
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(CFO)",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 7.541
+                    },
+                    {
+                      "x": 1.7918,
+                      "y": 7.541
+                    },
+                    {
+                      "x": 1.7918,
+                      "y": 7.685
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 7.685
+                    }
+                  ]
+                }
+              ],
+              "content": "(CFO)",
+              "spans": [
+                {
+                  "offset": 3425,
+                  "length": 5
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 8.019
+                    },
+                    {
+                      "x": 2.1901,
+                      "y": 8.019
+                    },
+                    {
+                      "x": 2.1901,
+                      "y": 8.4781
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 8.4781
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3515,
+                  "length": 48
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 8.019
+                    },
+                    {
+                      "x": 5.9302,
+                      "y": 8.019
+                    },
+                    {
+                      "x": 5.9302,
+                      "y": 8.4781
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 8.4781
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3449,
+                  "length": 48
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Stretch, Stephen",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2043,
+                      "y": 8.9681
+                    },
+                    {
+                      "x": 1.325,
+                      "y": 8.9681
+                    },
+                    {
+                      "x": 1.325,
+                      "y": 9.1121
+                    },
+                    {
+                      "x": 0.2043,
+                      "y": 9.1121
+                    }
+                  ]
+                }
+              ],
+              "content": "Stretch, Stephen",
+              "spans": [
+                {
+                  "offset": 3600,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 9.1793
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 9.1793
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 9.3234
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 9.3234
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 3633,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 9.6573
+                    },
+                    {
+                      "x": 2.1901,
+                      "y": 9.6573
+                    },
+                    {
+                      "x": 2.1901,
+                      "y": 10.1164
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 10.1164
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3735,
+                  "length": 48
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 3,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 9.6573
+                    },
+                    {
+                      "x": 5.9302,
+                      "y": 9.6573
+                    },
+                    {
+                      "x": 5.9302,
+                      "y": 10.1164
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 10.1164
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3669,
+                  "length": 48
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Williams, Pamela",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 0.1993,
+                      "y": 0.7792
+                    },
+                    {
+                      "x": 1.3642,
+                      "y": 0.7792
+                    },
+                    {
+                      "x": 1.3642,
+                      "y": 0.9112
+                    },
+                    {
+                      "x": 0.1993,
+                      "y": 0.9112
+                    }
+                  ]
+                }
+              ],
+              "content": "Williams, Pamela",
+              "spans": [
+                {
+                  "offset": 3843,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 0.9876
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 0.9876
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 1.1316
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 1.1316
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 3876,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 1.9247
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 1.9247
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3911,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 1.4656
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 1.9247
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 1.9247
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 3979,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Zarkovich, Erica",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 0.2004,
+                      "y": 2.4176
+                    },
+                    {
+                      "x": 1.288,
+                      "y": 2.4176
+                    },
+                    {
+                      "x": 1.288,
+                      "y": 2.5496
+                    },
+                    {
+                      "x": 0.2004,
+                      "y": 2.5496
+                    }
+                  ]
+                }
+              ],
+              "content": "Zarkovich, Erica",
+              "spans": [
+                {
+                  "offset": 4065,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "OFFICES_HELD": {
+              "kind": "string",
+              "value": "(Other Office(s))",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 1.3883,
+                      "y": 2.6259
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 2.6259
+                    },
+                    {
+                      "x": 2.4711,
+                      "y": 2.77
+                    },
+                    {
+                      "x": 1.3883,
+                      "y": 2.77
+                    }
+                  ]
+                }
+              ],
+              "content": "(Other Office(s))",
+              "spans": [
+                {
+                  "offset": 4098,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 0.2383,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 2.2266,
+                      "y": 3.563
+                    },
+                    {
+                      "x": 0.2383,
+                      "y": 3.563
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "spans": [
+                {
+                  "offset": 4133,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "100 INTERNATIONAL BLVD. TORONTO ON M9W 6J6 CANADA",
+              "boundingRegions": [
+                {
+                  "pageNumber": 4,
+                  "polygon": [
+                    {
+                      "x": 3.9785,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.1039
+                    },
+                    {
+                      "x": 5.9668,
+                      "y": 3.563
+                    },
+                    {
+                      "x": 3.9785,
+                      "y": 3.563
+                    }
+                  ]
+                }
+              ],
+              "content": "100 INTERNATIONAL BLVD.\nTORONTO ON M9W 6J6\nCANADA",
+              "spans": [
+                {
+                  "offset": 4201,
+                  "length": 49
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "COMPANY_NAME_INFORMATION": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "AMALGAMATING_CORPORATIONS_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "NAME": {
+              "kind": "string",
+              "value": "EXCELLERIS TECHNOLOGIES INC.",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2493,
+                      "y": 6.0358
+                    },
+                    {
+                      "x": 2.7699,
+                      "y": 6.0358
+                    },
+                    {
+                      "x": 2.7699,
+                      "y": 6.1511
+                    },
+                    {
+                      "x": 0.2493,
+                      "y": 6.1511
+                    }
+                  ]
+                }
+              ],
+              "content": "EXCELLERIS TECHNOLOGIES INC.",
+              "spans": [
+                {
+                  "offset": 697,
+                  "length": 28
+                }
+              ],
+              "confidence": 0
+            },
+            "INCORPORATION_NUMBER_IN_BC": {
+              "kind": "string",
+              "value": "BC0581230",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 5.635,
+                      "y": 6.0358
+                    },
+                    {
+                      "x": 6.4247,
+                      "y": 6.0358
+                    },
+                    {
+                      "x": 6.4247,
+                      "y": 6.1511
+                    },
+                    {
+                      "x": 5.635,
+                      "y": 6.1511
+                    }
+                  ]
+                }
+              ],
+              "content": "BC0581230",
+              "spans": [
+                {
+                  "offset": 677,
+                  "length": 9
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "NAME": {
+              "kind": "string",
+              "value": "LIFELABS BC INC.",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.2478,
+                      "y": 6.2864
+                    },
+                    {
+                      "x": 1.5389,
+                      "y": 6.2864
+                    },
+                    {
+                      "x": 1.5389,
+                      "y": 6.4017
+                    },
+                    {
+                      "x": 0.2478,
+                      "y": 6.4017
+                    }
+                  ]
+                }
+              ],
+              "content": "LIFELABS BC INC.",
+              "spans": [
+                {
+                  "offset": 726,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            },
+            "INCORPORATION_NUMBER_IN_BC": {
+              "kind": "string",
+              "value": "BC1206166",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 5.635,
+                      "y": 6.2864
+                    },
+                    {
+                      "x": 6.4247,
+                      "y": 6.2864
+                    },
+                    {
+                      "x": 6.4247,
+                      "y": 6.4017
+                    },
+                    {
+                      "x": 5.635,
+                      "y": 6.4017
+                    }
+                  ]
+                }
+              ],
+              "content": "BC1206166",
+              "spans": [
+                {
+                  "offset": 687,
+                  "length": 9
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "DISSOLATION_RESTORATION_INFORMATION": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "CONTINUED_OUT_INFORMATION": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "STATUS_DETAILS": {
+      "kind": "string",
+      "confidence": 0.843
+    }
+  }
