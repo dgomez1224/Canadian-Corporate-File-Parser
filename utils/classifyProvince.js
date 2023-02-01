@@ -7,7 +7,7 @@ const classifyProvince = (document) => {
   const isDocumentFromAlberta = document.includes(
     'Government Corporation/Non-Profit Search of Alberta',
   )
-  const isDocumentFromOntario = document.includes('ONTARIO_PLACEHOLDER')
+  const isDocumentFromOntario = document.includes('Ontario Business Corporation')
 
   if (isDocumentFromBC) {
     return PROVINCES.BC
