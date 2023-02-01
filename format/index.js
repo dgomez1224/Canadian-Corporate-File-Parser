@@ -8,7 +8,12 @@ const selectProvinceToFormat = (frData, province) => {
     case PROVINCES.BC:
       formattedData = formatBC(frData)
       break
-
+    case PROVINCES.ON:
+      formattedData = formatON(frData)
+    break
+    case PROVINCES.AB:
+      formattedData = formatAB(frData)
+    break
     default:
       break
   }
