@@ -17,3 +17,6 @@ const modelProvinceMapper = (province) => {
 }
 
 module.exports = modelProvinceMapper
+
+// NOVA_SCOTIA : NS = nova-scotia-corp-profile-jan-28-2023
+// SASKATCHEWAN : SK = saskatchewan-corp-profile-jan-29-2023
