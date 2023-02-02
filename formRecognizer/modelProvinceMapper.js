@@ -6,7 +6,7 @@ const modelProvinceMapper = (province) => {
       return 'bc-corp-profile-jan-28-2023-v2'
 
     case PROVINCES.AB:
-      return 'ab-corp-profile-jan-27-2023'
+      return 'ab-corp-profile-feb-1-2023'
 
     case PROVINCES.ON:
       return 'ontario-corp-profile-jan-26-2023-v3'
