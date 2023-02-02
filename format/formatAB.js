@@ -69,15 +69,22 @@ const formatAB = (unformattedData) => {
       } else if (property === 'LAST_ANNUAL_RETURN_FILED') {
         const lastAnnualReturn = unformattedData.LAST_ANNUAL_RETURN_FILED.values
 
-        obj[property] = {}
-        staticKeyPairsHelper(obj[property], lastAnnualReturn)
-      } else if (property === 'FILING_HISTORY') {
-        const filingHistory = unformattedData.FILING_HISTORY.values
+        obj[property] = {};
+        staticKeyPairsHelper(obj[property], lastAnnualReturn);
 
-        obj[property] = {}
-        staticKeyPairsHelper(obj[property], filingHistory)
-      } else if (property === 'LEGAL_ENTITY_STATUS') {
-        const legalEntityStatus = unformattedData.LEGAL_ENTITY_STATUS.values
+        //Refactored output for reduce method 
+        //obj[property] = staticKeyPairsHelper(filingHistory)
+
+      } else if (property === "FILING_HISTORY") {
+        const filingHistory = unformattedData.FILING_HISTORY.values;
+
+        obj[property] = {};
+        staticKeyPairsHelper(obj[property], filingHistory);
+
+        //Refactored output for reduce method 
+        //obj[property] = staticKeyPairsHelper(filingHistory)
+      } else if (property === "LEGAL_ENTITY_STATUS") {
+        const legalEntityStatus = unformattedData.LEGAL_ENTITY_STATUS.values;
 
         obj[property] = {}
         dynamicKeyValuePairsHelper(obj[property], legalEntityStatus)
@@ -96,10 +103,13 @@ const formatAB = (unformattedData) => {
       } else if (property === 'PRIMARY_AGENT_FOR_SERVICE') {
         const primaryAgent = unformattedData.PRIMARY_AGENT_FOR_SERVICE.values
 
-        obj[property] = {}
-        staticKeyPairsHelper(obj[property], primaryAgent)
-      } else if (property === 'ATTACHMENTS') {
-        const attachments = unformattedData.ATTACHMENTS.values
+        obj[property] = {};
+        staticKeyPairsHelper(obj[property], primaryAgent);
+
+        //Refactored output for reduce method 
+        //obj[property] = staticKeyPairsHelper(filingHistory)
+      } else if (property === "ATTACHMENTS") {
+        const attachments = unformattedData.ATTACHMENTS.values;
 
         obj[property] = []
         arrayOfObjectsHelper(obj[property], attachments)

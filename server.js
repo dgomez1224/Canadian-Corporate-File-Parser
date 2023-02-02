@@ -7,7 +7,7 @@ const runOCR = require('./ocr/runOCR')
 const classifyProvince = require('./utils/classifyProvince')
 const runFR = require('./formRecognizer/runFR')
 const formatData = require('./format')
-const bcData = require('./lifeLabsFrResult.json')
+// const bcData = require('./lifeLabsFrResult.json')
 
 const app = express()
 const port = 3000

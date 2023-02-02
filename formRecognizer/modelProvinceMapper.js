@@ -11,6 +11,12 @@ const modelProvinceMapper = (province) => {
     case PROVINCES.ON:
       return 'ontario-corp-profile-jan-26-2023-v3'
 
+    case PROVINCES.NS:
+      return 'nova-scotia-corp-profile-jan-28-2023'
+
+    case PROVINCES.SK:
+      return 'saskatchewan-corp-profile-jan-29-2023'
+
     default:
       break
   }
@@ -18,5 +24,3 @@ const modelProvinceMapper = (province) => {
 
 module.exports = modelProvinceMapper
 
-// NOVA_SCOTIA : NS = nova-scotia-corp-profile-jan-28-2023
-// SASKATCHEWAN : SK = saskatchewan-corp-profile-jan-29-2023
