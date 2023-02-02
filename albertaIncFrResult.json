@@ -1,0 +1,3605 @@
+{
+  "BASE_INFORMATION": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Date of Search:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8662,
+                    "y": 1.8377
+                  },
+                  {
+                    "x": 1.8858,
+                    "y": 1.8377
+                  },
+                  {
+                    "x": 1.8858,
+                    "y": 1.9557
+                  },
+                  {
+                    "x": 0.8662,
+                    "y": 1.9557
+                  }
+                ]
+              }
+            ],
+            "content": "Date of Search:",
+            "spans": [
+              {
+                "offset": 60,
+                "length": 15
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "2022/09/22",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.9068,
+                    "y": 1.8377
+                  },
+                  {
+                    "x": 3.6563,
+                    "y": 1.8377
+                  },
+                  {
+                    "x": 3.6563,
+                    "y": 1.9555
+                  },
+                  {
+                    "x": 2.9068,
+                    "y": 1.9555
+                  }
+                ]
+              }
+            ],
+            "content": "2022/09/22",
+            "spans": [
+              {
+                "offset": 76,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Time of Search:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8683,
+                    "y": 2.071
+                  },
+                  {
+                    "x": 1.9225,
+                    "y": 2.071
+                  },
+                  {
+                    "x": 1.9225,
+                    "y": 2.189
+                  },
+                  {
+                    "x": 0.8683,
+                    "y": 2.189
+                  }
+                ]
+              }
+            ],
+            "content": "Time of Search:",
+            "spans": [
+              {
+                "offset": 87,
+                "length": 15
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "01:04 PM",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.9093,
+                    "y": 2.074
+                  },
+                  {
+                    "x": 3.563,
+                    "y": 2.074
+                  },
+                  {
+                    "x": 3.563,
+                    "y": 2.1888
+                  },
+                  {
+                    "x": 2.9093,
+                    "y": 2.1888
+                  }
+                ]
+              }
+            ],
+            "content": "01:04 PM",
+            "spans": [
+              {
+                "offset": 103,
+                "length": 8
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Search provided by:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8738,
+                    "y": 2.3043
+                  },
+                  {
+                    "x": 2.1925,
+                    "y": 2.3043
+                  },
+                  {
+                    "x": 2.1925,
+                    "y": 2.4558
+                  },
+                  {
+                    "x": 0.8738,
+                    "y": 2.4558
+                  }
+                ]
+              }
+            ],
+            "content": "Search provided by:",
+            "spans": [
+              {
+                "offset": 112,
+                "length": 19
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "ELDOR-WAL REGISTRATIONS (1987) LTD",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.9068,
+                    "y": 2.3043
+                  },
+                  {
+                    "x": 6.0873,
+                    "y": 2.3043
+                  },
+                  {
+                    "x": 6.0873,
+                    "y": 2.4555
+                  },
+                  {
+                    "x": 2.9068,
+                    "y": 2.4555
+                  }
+                ]
+              }
+            ],
+            "content": "ELDOR-WAL REGISTRATIONS (1987) LTD",
+            "spans": [
+              {
+                "offset": 132,
+                "length": 34
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Service Request Number:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8738,
+                    "y": 2.5793
+                  },
+                  {
+                    "x": 2.5625,
+                    "y": 2.5793
+                  },
+                  {
+                    "x": 2.5625,
+                    "y": 2.7305
+                  },
+                  {
+                    "x": 0.8738,
+                    "y": 2.7305
+                  }
+                ]
+              }
+            ],
+            "content": "Service Request Number:",
+            "spans": [
+              {
+                "offset": 167,
+                "length": 23
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "38332491",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.9102,
+                    "y": 2.5823
+                  },
+                  {
+                    "x": 3.5497,
+                    "y": 2.5823
+                  },
+                  {
+                    "x": 3.5497,
+                    "y": 2.6972
+                  },
+                  {
+                    "x": 2.9102,
+                    "y": 2.6972
+                  }
+                ]
+              }
+            ],
+            "content": "38332491",
+            "spans": [
+              {
+                "offset": 191,
+                "length": 8
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Customer Reference Number:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8693,
+                    "y": 2.8127
+                  },
+                  {
+                    "x": 2.8492,
+                    "y": 2.8127
+                  },
+                  {
+                    "x": 2.8492,
+                    "y": 2.9307
+                  },
+                  {
+                    "x": 0.8693,
+                    "y": 2.9307
+                  }
+                ]
+              }
+            ],
+            "content": "Customer Reference Number:",
+            "spans": [
+              {
+                "offset": 200,
+                "length": 26
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "CORPORATE_INFORMATION": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Corporate Access Number:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.87,
+                    "y": 3.5938
+                  },
+                  {
+                    "x": 2.793,
+                    "y": 3.5938
+                  },
+                  {
+                    "x": 2.793,
+                    "y": 3.7422
+                  },
+                  {
+                    "x": 0.87,
+                    "y": 3.7422
+                  }
+                ]
+              }
+            ],
+            "content": "Corporate Access Number:",
+            "spans": [
+              {
+                "offset": 227,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "2023734938",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8518,
+                    "y": 3.594
+                  },
+                  {
+                    "x": 3.672,
+                    "y": 3.594
+                  },
+                  {
+                    "x": 3.672,
+                    "y": 3.7088
+                  },
+                  {
+                    "x": 2.8518,
+                    "y": 3.7088
+                  }
+                ]
+              }
+            ],
+            "content": "2023734938",
+            "spans": [
+              {
+                "offset": 252,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Business Number:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8668,
+                    "y": 3.827
+                  },
+                  {
+                    "x": 2.1497,
+                    "y": 3.827
+                  },
+                  {
+                    "x": 2.1497,
+                    "y": 3.9423
+                  },
+                  {
+                    "x": 0.8668,
+                    "y": 3.9423
+                  }
+                ]
+              }
+            ],
+            "content": "Business Number:",
+            "spans": [
+              {
+                "offset": 263,
+                "length": 16
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "778118000",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8545,
+                    "y": 3.8273
+                  },
+                  {
+                    "x": 3.5923,
+                    "y": 3.8273
+                  },
+                  {
+                    "x": 3.5923,
+                    "y": 3.9422
+                  },
+                  {
+                    "x": 2.8545,
+                    "y": 3.9422
+                  }
+                ]
+              }
+            ],
+            "content": "778118000",
+            "spans": [
+              {
+                "offset": 280,
+                "length": 9
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Legal Entity Name:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8665,
+                    "y": 4.0603
+                  },
+                  {
+                    "x": 2.2463,
+                    "y": 4.0603
+                  },
+                  {
+                    "x": 2.2463,
+                    "y": 4.2092
+                  },
+                  {
+                    "x": 0.8665,
+                    "y": 4.2092
+                  }
+                ]
+              }
+            ],
+            "content": "Legal Entity Name:",
+            "spans": [
+              {
+                "offset": 290,
+                "length": 18
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "2373493 ALBERTA INC.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8518,
+                    "y": 4.0605
+                  },
+                  {
+                    "x": 4.5998,
+                    "y": 4.0605
+                  },
+                  {
+                    "x": 4.5998,
+                    "y": 4.1757
+                  },
+                  {
+                    "x": 2.8518,
+                    "y": 4.1757
+                  }
+                ]
+              }
+            ],
+            "content": "2373493 ALBERTA INC.",
+            "spans": [
+              {
+                "offset": 309,
+                "length": 20
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "REGISTERED_OFFICE": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Street:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.872,
+                    "y": 6.8038
+                  },
+                  {
+                    "x": 1.3313,
+                    "y": 6.8038
+                  },
+                  {
+                    "x": 1.3313,
+                    "y": 6.9192
+                  },
+                  {
+                    "x": 0.872,
+                    "y": 6.9192
+                  }
+                ]
+              }
+            ],
+            "content": "Street:",
+            "spans": [
+              {
+                "offset": 579,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "COLUMN2": {
+            "kind": "string",
+            "value": "4500, 855 - 2ND STREET S.W.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.1993,
+                    "y": 6.8038
+                  },
+                  {
+                    "x": 4.3415,
+                    "y": 6.8038
+                  },
+                  {
+                    "x": 4.3415,
+                    "y": 6.9443
+                  },
+                  {
+                    "x": 2.1993,
+                    "y": 6.9443
+                  }
+                ]
+              }
+            ],
+            "content": "4500, 855 - 2ND STREET S.W.",
+            "spans": [
+              {
+                "offset": 587,
+                "length": 27
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "City:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.87,
+                    "y": 7.037
+                  },
+                  {
+                    "x": 1.2097,
+                    "y": 7.037
+                  },
+                  {
+                    "x": 1.2097,
+                    "y": 7.1858
+                  },
+                  {
+                    "x": 0.87,
+                    "y": 7.1858
+                  }
+                ]
+              }
+            ],
+            "content": "City:",
+            "spans": [
+              {
+                "offset": 615,
+                "length": 5
+              }
+            ],
+            "confidence": 0
+          },
+          "COLUMN2": {
+            "kind": "string",
+            "value": "CALGARY",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.2027,
+                    "y": 7.0372
+                  },
+                  {
+                    "x": 2.9997,
+                    "y": 7.0372
+                  },
+                  {
+                    "x": 2.9997,
+                    "y": 7.1523
+                  },
+                  {
+                    "x": 2.2027,
+                    "y": 7.1523
+                  }
+                ]
+              }
+            ],
+            "content": "CALGARY",
+            "spans": [
+              {
+                "offset": 621,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Province:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8675,
+                    "y": 7.2687
+                  },
+                  {
+                    "x": 1.5347,
+                    "y": 7.2687
+                  },
+                  {
+                    "x": 1.5347,
+                    "y": 7.3838
+                  },
+                  {
+                    "x": 0.8675,
+                    "y": 7.3838
+                  }
+                ]
+              }
+            ],
+            "content": "Province:",
+            "spans": [
+              {
+                "offset": 629,
+                "length": 9
+              }
+            ],
+            "confidence": 0
+          },
+          "COLUMN2": {
+            "kind": "string",
+            "value": "ALBERTA",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.198,
+                    "y": 7.2688
+                  },
+                  {
+                    "x": 2.9618,
+                    "y": 7.2688
+                  },
+                  {
+                    "x": 2.9618,
+                    "y": 7.3817
+                  },
+                  {
+                    "x": 2.198,
+                    "y": 7.3817
+                  }
+                ]
+              }
+            ],
+            "content": "ALBERTA",
+            "spans": [
+              {
+                "offset": 639,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Postal Code:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8675,
+                    "y": 7.5022
+                  },
+                  {
+                    "x": 1.7513,
+                    "y": 7.5022
+                  },
+                  {
+                    "x": 1.7513,
+                    "y": 7.6173
+                  },
+                  {
+                    "x": 0.8675,
+                    "y": 7.6173
+                  }
+                ]
+              }
+            ],
+            "content": "Postal Code:",
+            "spans": [
+              {
+                "offset": 647,
+                "length": 12
+              }
+            ],
+            "confidence": 0
+          },
+          "COLUMN2": {
+            "kind": "string",
+            "value": "T2P4K7",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.2017,
+                    "y": 7.5023
+                  },
+                  {
+                    "x": 2.7527,
+                    "y": 7.5023
+                  },
+                  {
+                    "x": 2.7527,
+                    "y": 7.6172
+                  },
+                  {
+                    "x": 2.2017,
+                    "y": 7.6172
+                  }
+                ]
+              }
+            ],
+            "content": "T2P4K7",
+            "spans": [
+              {
+                "offset": 660,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "RECORDS_ADDRESS": {
+    "kind": "array",
+    "values": [],
+    "confidence": 0
+  },
+  "EMAIL": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Email Address:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8667,
+                    "y": 7.9237
+                  },
+                  {
+                    "x": 1.9563,
+                    "y": 7.9237
+                  },
+                  {
+                    "x": 1.9563,
+                    "y": 8.0388
+                  },
+                  {
+                    "x": 0.8667,
+                    "y": 8.0388
+                  }
+                ]
+              }
+            ],
+            "content": "Email Address:",
+            "spans": [
+              {
+                "offset": 667,
+                "length": 14
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "CALCSDNOTIFICATIONS@BENNETTJONES.COM",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.0177,
+                    "y": 7.921
+                  },
+                  {
+                    "x": 5.768,
+                    "y": 7.921
+                  },
+                  {
+                    "x": 5.768,
+                    "y": 8.0725
+                  },
+                  {
+                    "x": 2.0177,
+                    "y": 8.0725
+                  }
+                ]
+              }
+            ],
+            "content": "CALCSDNOTIFICATIONS@BENNETTJONES.COM",
+            "spans": [
+              {
+                "offset": 682,
+                "length": 36
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "DIRECTORS": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "LAST_NAME": {
+            "kind": "string",
+            "value": "HAIGHT",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3478,
+                    "y": 1.2372
+                  },
+                  {
+                    "x": 2.9793,
+                    "y": 1.2372
+                  },
+                  {
+                    "x": 2.9793,
+                    "y": 1.3523
+                  },
+                  {
+                    "x": 2.3478,
+                    "y": 1.3523
+                  }
+                ]
+              }
+            ],
+            "content": "HAIGHT",
+            "spans": [
+              {
+                "offset": 967,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          },
+          "FIRST_NAME": {
+            "kind": "string",
+            "value": "DARRELL",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3478,
+                    "y": 1.4705
+                  },
+                  {
+                    "x": 3.1098,
+                    "y": 1.4705
+                  },
+                  {
+                    "x": 3.1098,
+                    "y": 1.5833
+                  },
+                  {
+                    "x": 2.3478,
+                    "y": 1.5833
+                  }
+                ]
+              }
+            ],
+            "content": "DARRELL",
+            "spans": [
+              {
+                "offset": 986,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "STREET_BOX_NUMBER": {
+            "kind": "string",
+            "value": "300, 37 RICHARD WAY S.W.",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3518,
+                    "y": 1.7022
+                  },
+                  {
+                    "x": 4.4382,
+                    "y": 1.7022
+                  },
+                  {
+                    "x": 4.4382,
+                    "y": 1.8427
+                  },
+                  {
+                    "x": 2.3518,
+                    "y": 1.8427
+                  }
+                ]
+              }
+            ],
+            "content": "300, 37 RICHARD WAY S.W.",
+            "spans": [
+              {
+                "offset": 1013,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "CITY": {
+            "kind": "string",
+            "value": "CALGARY",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.351,
+                    "y": 1.9355
+                  },
+                  {
+                    "x": 3.148,
+                    "y": 1.9355
+                  },
+                  {
+                    "x": 3.148,
+                    "y": 2.0507
+                  },
+                  {
+                    "x": 2.351,
+                    "y": 2.0507
+                  }
+                ]
+              }
+            ],
+            "content": "CALGARY",
+            "spans": [
+              {
+                "offset": 1044,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "PROVINCE": {
+            "kind": "string",
+            "value": "ALBERTA",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3463,
+                    "y": 2.1688
+                  },
+                  {
+                    "x": 3.1102,
+                    "y": 2.1688
+                  },
+                  {
+                    "x": 3.1102,
+                    "y": 2.2817
+                  },
+                  {
+                    "x": 2.3463,
+                    "y": 2.2817
+                  }
+                ]
+              }
+            ],
+            "content": "ALBERTA",
+            "spans": [
+              {
+                "offset": 1062,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "POSTAL_CODE": {
+            "kind": "string",
+            "value": "T3E7M8",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.35,
+                    "y": 2.4023
+                  },
+                  {
+                    "x": 2.937,
+                    "y": 2.4023
+                  },
+                  {
+                    "x": 2.937,
+                    "y": 2.5172
+                  },
+                  {
+                    "x": 2.35,
+                    "y": 2.5172
+                  }
+                ]
+              }
+            ],
+            "content": "T3E7M8",
+            "spans": [
+              {
+                "offset": 1083,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "LAST_NAME": {
+            "kind": "string",
+            "value": "SMITH",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3555,
+                    "y": 2.8472
+                  },
+                  {
+                    "x": 2.8587,
+                    "y": 2.8472
+                  },
+                  {
+                    "x": 2.8587,
+                    "y": 2.9623
+                  },
+                  {
+                    "x": 2.3555,
+                    "y": 2.9623
+                  }
+                ]
+              }
+            ],
+            "content": "SMITH",
+            "spans": [
+              {
+                "offset": 1101,
+                "length": 5
+              }
+            ],
+            "confidence": 0
+          },
+          "FIRST_NAME": {
+            "kind": "string",
+            "value": "RHONDA",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3478,
+                    "y": 3.0805
+                  },
+                  {
+                    "x": 3.0552,
+                    "y": 3.0805
+                  },
+                  {
+                    "x": 3.0552,
+                    "y": 3.1957
+                  },
+                  {
+                    "x": 2.3478,
+                    "y": 3.1957
+                  }
+                ]
+              }
+            ],
+            "content": "RHONDA",
+            "spans": [
+              {
+                "offset": 1119,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          },
+          "MIDDLE_NAME": {
+            "kind": "string",
+            "value": "LEE",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3483,
+                    "y": 3.3163
+                  },
+                  {
+                    "x": 2.6463,
+                    "y": 3.3163
+                  },
+                  {
+                    "x": 2.6463,
+                    "y": 3.4267
+                  },
+                  {
+                    "x": 2.3483,
+                    "y": 3.4267
+                  }
+                ]
+              }
+            ],
+            "content": "LEE",
+            "spans": [
+              {
+                "offset": 1139,
+                "length": 3
+              }
+            ],
+            "confidence": 0
+          },
+          "STREET_BOX_NUMBER": {
+            "kind": "string",
+            "value": "300, 37 RICHARD WAY S.W.",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3518,
+                    "y": 3.5472
+                  },
+                  {
+                    "x": 4.4382,
+                    "y": 3.5472
+                  },
+                  {
+                    "x": 4.4382,
+                    "y": 3.6877
+                  },
+                  {
+                    "x": 2.3518,
+                    "y": 3.6877
+                  }
+                ]
+              }
+            ],
+            "content": "300, 37 RICHARD WAY S.W.",
+            "spans": [
+              {
+                "offset": 1162,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "CITY": {
+            "kind": "string",
+            "value": "CALGARY",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.351,
+                    "y": 3.7805
+                  },
+                  {
+                    "x": 3.148,
+                    "y": 3.7805
+                  },
+                  {
+                    "x": 3.148,
+                    "y": 3.8957
+                  },
+                  {
+                    "x": 2.351,
+                    "y": 3.8957
+                  }
+                ]
+              }
+            ],
+            "content": "CALGARY",
+            "spans": [
+              {
+                "offset": 1193,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "PROVINCE": {
+            "kind": "string",
+            "value": "ALBERTA",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3463,
+                    "y": 4.0138
+                  },
+                  {
+                    "x": 3.1102,
+                    "y": 4.0138
+                  },
+                  {
+                    "x": 3.1102,
+                    "y": 4.1267
+                  },
+                  {
+                    "x": 2.3463,
+                    "y": 4.1267
+                  }
+                ]
+              }
+            ],
+            "content": "ALBERTA",
+            "spans": [
+              {
+                "offset": 1211,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "POSTAL_CODE": {
+            "kind": "string",
+            "value": "T3E7M8",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.35,
+                    "y": 4.2473
+                  },
+                  {
+                    "x": 2.937,
+                    "y": 4.2473
+                  },
+                  {
+                    "x": 2.937,
+                    "y": 4.3622
+                  },
+                  {
+                    "x": 2.35,
+                    "y": 4.3622
+                  }
+                ]
+              }
+            ],
+            "content": "T3E7M8",
+            "spans": [
+              {
+                "offset": 1232,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "VOTING_SHAREHOLDERS": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "STREET": {
+            "kind": "string",
+            "value": "4500, 855 -2ND STREET SW",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.851,
+                    "y": 5.7455
+                  },
+                  {
+                    "x": 4.8793,
+                    "y": 5.7455
+                  },
+                  {
+                    "x": 4.8793,
+                    "y": 5.886
+                  },
+                  {
+                    "x": 2.851,
+                    "y": 5.886
+                  }
+                ]
+              }
+            ],
+            "content": "4500, 855 -2ND STREET SW",
+            "spans": [
+              {
+                "offset": 1344,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "CITY": {
+            "kind": "string",
+            "value": "CALGARY",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8543,
+                    "y": 5.9788
+                  },
+                  {
+                    "x": 3.6513,
+                    "y": 5.9788
+                  },
+                  {
+                    "x": 3.6513,
+                    "y": 6.094
+                  },
+                  {
+                    "x": 2.8543,
+                    "y": 6.094
+                  }
+                ]
+              }
+            ],
+            "content": "CALGARY",
+            "spans": [
+              {
+                "offset": 1375,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "PROVINCE": {
+            "kind": "string",
+            "value": "ALBERTA",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8497,
+                    "y": 6.2122
+                  },
+                  {
+                    "x": 3.6152,
+                    "y": 6.2122
+                  },
+                  {
+                    "x": 3.6152,
+                    "y": 6.325
+                  },
+                  {
+                    "x": 2.8497,
+                    "y": 6.325
+                  }
+                ]
+              }
+            ],
+            "content": "ALBERTA",
+            "spans": [
+              {
+                "offset": 1393,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "POSTAL_CODE": {
+            "kind": "string",
+            "value": "T2P4K7",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8533,
+                    "y": 6.4457
+                  },
+                  {
+                    "x": 3.406,
+                    "y": 6.4457
+                  },
+                  {
+                    "x": 3.406,
+                    "y": 6.5605
+                  },
+                  {
+                    "x": 2.8533,
+                    "y": 6.5605
+                  }
+                ]
+              }
+            ],
+            "content": "T2P4K7",
+            "spans": [
+              {
+                "offset": 1414,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          },
+          "PERCENT_OF_VOTING_SHARES": {
+            "kind": "string",
+            "value": "100",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8678,
+                    "y": 6.679
+                  },
+                  {
+                    "x": 3.0923,
+                    "y": 6.679
+                  },
+                  {
+                    "x": 3.0923,
+                    "y": 6.7935
+                  },
+                  {
+                    "x": 2.8678,
+                    "y": 6.7935
+                  }
+                ]
+              }
+            ],
+            "content": "100",
+            "spans": [
+              {
+                "offset": 1447,
+                "length": 3
+              }
+            ],
+            "confidence": 0
+          },
+          "LEGAL_ENTITY_NAME": {
+            "kind": "string",
+            "value": "1236117 ALBERTA INC.",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8678,
+                    "y": 5.2788
+                  },
+                  {
+                    "x": 4.5998,
+                    "y": 5.2788
+                  },
+                  {
+                    "x": 4.5998,
+                    "y": 5.394
+                  },
+                  {
+                    "x": 2.8678,
+                    "y": 5.394
+                  }
+                ]
+              }
+            ],
+            "content": "1236117 ALBERTA INC.",
+            "spans": [
+              {
+                "offset": 1279,
+                "length": 20
+              }
+            ],
+            "confidence": 0
+          },
+          "CORPORATE_ACCESS_NUMBER": {
+            "kind": "string",
+            "value": "2012361172",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.8518,
+                    "y": 5.5123
+                  },
+                  {
+                    "x": 3.6747,
+                    "y": 5.5123
+                  },
+                  {
+                    "x": 3.6747,
+                    "y": 5.6272
+                  },
+                  {
+                    "x": 2.8518,
+                    "y": 5.6272
+                  }
+                ]
+              }
+            ],
+            "content": "2012361172",
+            "spans": [
+              {
+                "offset": 1325,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "DETAILS_FROM_CURRENT_ARTICLES": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Share Structure:",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 0.872,
+                    "y": 8.3305
+                  },
+                  {
+                    "x": 2.048,
+                    "y": 8.3305
+                  },
+                  {
+                    "x": 2.048,
+                    "y": 8.4458
+                  },
+                  {
+                    "x": 0.872,
+                    "y": 8.4458
+                  }
+                ]
+              }
+            ],
+            "content": "Share Structure:",
+            "spans": [
+              {
+                "offset": 1570,
+                "length": 16
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "THE ATTACHED SCHEDULE OF SHARE CAPITAL IS INCORPORATED INTO AND FORMS PART OF THIS FORM.",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3542,
+                    "y": 8.3305
+                  },
+                  {
+                    "x": 7.6257,
+                    "y": 8.3305
+                  },
+                  {
+                    "x": 7.6257,
+                    "y": 8.6373
+                  },
+                  {
+                    "x": 2.3542,
+                    "y": 8.6373
+                  }
+                ]
+              }
+            ],
+            "content": "THE ATTACHED SCHEDULE OF SHARE CAPITAL IS INCORPORATED\nINTO AND FORMS PART OF THIS FORM.",
+            "spans": [
+              {
+                "offset": 1587,
+                "length": 88
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Share Transfers Restrictions:",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 0.8665,
+                    "y": 8.8505
+                  },
+                  {
+                    "x": 2.0107,
+                    "y": 8.8505
+                  },
+                  {
+                    "x": 2.0107,
+                    "y": 9.1572
+                  },
+                  {
+                    "x": 0.8665,
+                    "y": 9.1572
+                  }
+                ]
+              }
+            ],
+            "content": "Share Transfers\nRestrictions:",
+            "spans": [
+              {
+                "offset": 1676,
+                "length": 29
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "THE ATTACHED SCHEDULE OF RESTRICTIONS ON SHARE TRANSFERS IS INCORPORATED INTO AND FORMS PART OF THIS FORM.",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3527,
+                    "y": 8.7555
+                  },
+                  {
+                    "x": 7.387,
+                    "y": 8.7555
+                  },
+                  {
+                    "x": 7.387,
+                    "y": 9.254
+                  },
+                  {
+                    "x": 2.3527,
+                    "y": 9.254
+                  }
+                ]
+              }
+            ],
+            "content": "THE ATTACHED SCHEDULE OF RESTRICTIONS ON SHARE\nTRANSFERS IS INCORPORATED INTO AND FORMS PART OF THIS\nFORM.",
+            "spans": [
+              {
+                "offset": 1706,
+                "length": 106
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Min Number Of Directors:",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 0.8655,
+                    "y": 9.3703
+                  },
+                  {
+                    "x": 2.0328,
+                    "y": 9.3703
+                  },
+                  {
+                    "x": 2.0328,
+                    "y": 9.6772
+                  },
+                  {
+                    "x": 0.8655,
+                    "y": 9.6772
+                  }
+                ]
+              }
+            ],
+            "content": "Min Number Of\nDirectors:",
+            "spans": [
+              {
+                "offset": 1813,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "1",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3695,
+                    "y": 9.4673
+                  },
+                  {
+                    "x": 2.413,
+                    "y": 9.4673
+                  },
+                  {
+                    "x": 2.413,
+                    "y": 9.58
+                  },
+                  {
+                    "x": 2.3695,
+                    "y": 9.58
+                  }
+                ]
+              }
+            ],
+            "content": "1",
+            "spans": [
+              {
+                "offset": 1838,
+                "length": 1
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Max Number Of Directors:",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 0.8655,
+                    "y": 9.7955
+                  },
+                  {
+                    "x": 2.0612,
+                    "y": 9.7955
+                  },
+                  {
+                    "x": 2.0612,
+                    "y": 10.1022
+                  },
+                  {
+                    "x": 0.8655,
+                    "y": 10.1022
+                  }
+                ]
+              }
+            ],
+            "content": "Max Number Of\nDirectors:",
+            "spans": [
+              {
+                "offset": 1840,
+                "length": 24
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "7",
+            "boundingRegions": [
+              {
+                "pageNumber": 2,
+                "polygon": [
+                  {
+                    "x": 2.3562,
+                    "y": 9.8947
+                  },
+                  {
+                    "x": 2.426,
+                    "y": 9.8947
+                  },
+                  {
+                    "x": 2.426,
+                    "y": 10.0072
+                  },
+                  {
+                    "x": 2.3562,
+                    "y": 10.0072
+                  }
+                ]
+              }
+            ],
+            "content": "7",
+            "spans": [
+              {
+                "offset": 1865,
+                "length": 1
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Business Restricted To:",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8668,
+                    "y": 0.7853
+                  },
+                  {
+                    "x": 2.244,
+                    "y": 0.7853
+                  },
+                  {
+                    "x": 2.244,
+                    "y": 1.0922
+                  },
+                  {
+                    "x": 0.8668,
+                    "y": 1.0922
+                  }
+                ]
+              }
+            ],
+            "content": "Business Restricted\nTo:",
+            "spans": [
+              {
+                "offset": 1867,
+                "length": 19
+              },
+              {
+                "offset": 1892,
+                "length": 3
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "NONE",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.3479,
+                    "y": 0.7855
+                  },
+                  {
+                    "x": 2.8097,
+                    "y": 0.7855
+                  },
+                  {
+                    "x": 2.8097,
+                    "y": 0.9007
+                  },
+                  {
+                    "x": 2.3479,
+                    "y": 0.9007
+                  }
+                ]
+              }
+            ],
+            "content": "NONE",
+            "spans": [
+              {
+                "offset": 1887,
+                "length": 4
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Business Restricted From:",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8668,
+                    "y": 1.2087
+                  },
+                  {
+                    "x": 2.244,
+                    "y": 1.2087
+                  },
+                  {
+                    "x": 2.244,
+                    "y": 1.5155
+                  },
+                  {
+                    "x": 0.8668,
+                    "y": 1.5155
+                  }
+                ]
+              }
+            ],
+            "content": "Business Restricted\nFrom:",
+            "spans": [
+              {
+                "offset": 1896,
+                "length": 25
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "NONE",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.3479,
+                    "y": 1.3055
+                  },
+                  {
+                    "x": 2.8097,
+                    "y": 1.3055
+                  },
+                  {
+                    "x": 2.8097,
+                    "y": 1.4207
+                  },
+                  {
+                    "x": 2.3479,
+                    "y": 1.4207
+                  }
+                ]
+              }
+            ],
+            "content": "NONE",
+            "spans": [
+              {
+                "offset": 1922,
+                "length": 4
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Other Provisions:",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8698,
+                    "y": 1.7303
+                  },
+                  {
+                    "x": 2.113,
+                    "y": 1.7303
+                  },
+                  {
+                    "x": 2.113,
+                    "y": 1.8457
+                  },
+                  {
+                    "x": 0.8698,
+                    "y": 1.8457
+                  }
+                ]
+              }
+            ],
+            "content": "Other Provisions:",
+            "spans": [
+              {
+                "offset": 1927,
+                "length": 17
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "THE ATTACHED SCHEDULE OF OTHER PROVISIONS IS INCORPORATED INTO AND FORMS PART OF THIS FORM.",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.3542,
+                    "y": 1.6338
+                  },
+                  {
+                    "x": 6.7648,
+                    "y": 1.6338
+                  },
+                  {
+                    "x": 6.7648,
+                    "y": 1.9407
+                  },
+                  {
+                    "x": 2.3542,
+                    "y": 1.9407
+                  }
+                ]
+              }
+            ],
+            "content": "THE ATTACHED SCHEDULE OF OTHER PROVISIONS IS\nINCORPORATED INTO AND FORMS PART OF THIS FORM.",
+            "spans": [
+              {
+                "offset": 1945,
+                "length": 91
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "LAST_ANNUAL_RETURN_FILED": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "FILE_YEAR": {
+            "kind": "string",
+            "value": "2022",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 1.2118,
+                    "y": 3.7607
+                  },
+                  {
+                    "x": 1.5347,
+                    "y": 3.7607
+                  },
+                  {
+                    "x": 1.5347,
+                    "y": 3.8752
+                  },
+                  {
+                    "x": 1.2118,
+                    "y": 3.8752
+                  }
+                ]
+              }
+            ],
+            "content": "2022",
+            "spans": [
+              {
+                "offset": 2116,
+                "length": 4
+              }
+            ],
+            "confidence": 0
+          },
+          "DATE_FILED": {
+            "kind": "string",
+            "value": "2022/09/21",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 1.5985,
+                    "y": 3.7577
+                  },
+                  {
+                    "x": 2.3347,
+                    "y": 3.7577
+                  },
+                  {
+                    "x": 2.3347,
+                    "y": 3.8755
+                  },
+                  {
+                    "x": 1.5985,
+                    "y": 3.8755
+                  }
+                ]
+              }
+            ],
+            "content": "2022/09/21",
+            "spans": [
+              {
+                "offset": 2121,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "FILING_HISTORY": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "LIST_DATE": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8835,
+                    "y": 5.0427
+                  },
+                  {
+                    "x": 1.6328,
+                    "y": 5.0427
+                  },
+                  {
+                    "x": 1.6328,
+                    "y": 5.1605
+                  },
+                  {
+                    "x": 0.8835,
+                    "y": 5.1605
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 2186,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "TYPE_OF_FILING": {
+            "kind": "string",
+            "value": "Incorporate Alberta Corporation",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.8725,
+                    "y": 5.0427
+                  },
+                  {
+                    "x": 5.0243,
+                    "y": 5.0427
+                  },
+                  {
+                    "x": 5.0243,
+                    "y": 5.1938
+                  },
+                  {
+                    "x": 2.8725,
+                    "y": 5.1938
+                  }
+                ]
+              }
+            ],
+            "content": "Incorporate Alberta Corporation",
+            "spans": [
+              {
+                "offset": 2197,
+                "length": 31
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "LIST_DATE": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8835,
+                    "y": 5.2893
+                  },
+                  {
+                    "x": 1.6328,
+                    "y": 5.2893
+                  },
+                  {
+                    "x": 1.6328,
+                    "y": 5.4072
+                  },
+                  {
+                    "x": 0.8835,
+                    "y": 5.4072
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 2229,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "TYPE_OF_FILING": {
+            "kind": "string",
+            "value": "Update Business Number Legal Entity",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.8692,
+                    "y": 5.2893
+                  },
+                  {
+                    "x": 5.4407,
+                    "y": 5.2893
+                  },
+                  {
+                    "x": 5.4407,
+                    "y": 5.4408
+                  },
+                  {
+                    "x": 2.8692,
+                    "y": 5.4408
+                  }
+                ]
+              }
+            ],
+            "content": "Update Business Number Legal Entity",
+            "spans": [
+              {
+                "offset": 2240,
+                "length": 35
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "LIST_DATE": {
+            "kind": "string",
+            "value": "2021/09/13",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8835,
+                    "y": 5.5343
+                  },
+                  {
+                    "x": 1.6262,
+                    "y": 5.5343
+                  },
+                  {
+                    "x": 1.6262,
+                    "y": 5.6522
+                  },
+                  {
+                    "x": 0.8835,
+                    "y": 5.6522
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/13",
+            "spans": [
+              {
+                "offset": 2276,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "TYPE_OF_FILING": {
+            "kind": "string",
+            "value": "Name Change Alberta Corporation",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.8663,
+                    "y": 5.5343
+                  },
+                  {
+                    "x": 5.2043,
+                    "y": 5.5343
+                  },
+                  {
+                    "x": 5.2043,
+                    "y": 5.6858
+                  },
+                  {
+                    "x": 2.8663,
+                    "y": 5.6858
+                  }
+                ]
+              }
+            ],
+            "content": "Name Change Alberta Corporation",
+            "spans": [
+              {
+                "offset": 2287,
+                "length": 31
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "LIST_DATE": {
+            "kind": "string",
+            "value": "2022/09/21",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8835,
+                    "y": 5.7793
+                  },
+                  {
+                    "x": 1.6197,
+                    "y": 5.7793
+                  },
+                  {
+                    "x": 1.6197,
+                    "y": 5.8972
+                  },
+                  {
+                    "x": 0.8835,
+                    "y": 5.8972
+                  }
+                ]
+              }
+            ],
+            "content": "2022/09/21",
+            "spans": [
+              {
+                "offset": 2319,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "TYPE_OF_FILING": {
+            "kind": "string",
+            "value": "Enter Annual Returns for Alberta and Extra-Provincial Corp.",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 2.8718,
+                    "y": 5.7793
+                  },
+                  {
+                    "x": 6.9282,
+                    "y": 5.7793
+                  },
+                  {
+                    "x": 6.9282,
+                    "y": 5.9305
+                  },
+                  {
+                    "x": 2.8718,
+                    "y": 5.9305
+                  }
+                ]
+              }
+            ],
+            "content": "Enter Annual Returns for Alberta and Extra-Provincial Corp.",
+            "spans": [
+              {
+                "offset": 2330,
+                "length": 59
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "LEGAL_ENTITY_STATUS": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Legal Entity Status:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8665,
+                    "y": 5.6003
+                  },
+                  {
+                    "x": 2.2747,
+                    "y": 5.6003
+                  },
+                  {
+                    "x": 2.2747,
+                    "y": 5.7492
+                  },
+                  {
+                    "x": 0.8665,
+                    "y": 5.7492
+                  }
+                ]
+              }
+            ],
+            "content": "Legal Entity Status:",
+            "spans": [
+              {
+                "offset": 436,
+                "length": 20
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "Active",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8413,
+                    "y": 5.5977
+                  },
+                  {
+                    "x": 3.2793,
+                    "y": 5.5977
+                  },
+                  {
+                    "x": 3.2793,
+                    "y": 5.7155
+                  },
+                  {
+                    "x": 2.8413,
+                    "y": 5.7155
+                  }
+                ]
+              }
+            ],
+            "content": "Active",
+            "spans": [
+              {
+                "offset": 457,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Alberta Corporation Type:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8647,
+                    "y": 5.8337
+                  },
+                  {
+                    "x": 2.7847,
+                    "y": 5.8337
+                  },
+                  {
+                    "x": 2.7847,
+                    "y": 5.9825
+                  },
+                  {
+                    "x": 0.8647,
+                    "y": 5.9825
+                  }
+                ]
+              }
+            ],
+            "content": "Alberta Corporation Type:",
+            "spans": [
+              {
+                "offset": 464,
+                "length": 25
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "Numbered Alberta Corporation",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8379,
+                    "y": 5.831
+                  },
+                  {
+                    "x": 4.931,
+                    "y": 5.831
+                  },
+                  {
+                    "x": 4.931,
+                    "y": 5.9822
+                  },
+                  {
+                    "x": 2.8379,
+                    "y": 5.9822
+                  }
+                ]
+              }
+            ],
+            "content": "Numbered Alberta Corporation",
+            "spans": [
+              {
+                "offset": 490,
+                "length": 28
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "KEY": {
+            "kind": "string",
+            "value": "Registration Date:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8665,
+                    "y": 6.067
+                  },
+                  {
+                    "x": 2.1597,
+                    "y": 6.067
+                  },
+                  {
+                    "x": 2.1597,
+                    "y": 6.2158
+                  },
+                  {
+                    "x": 0.8665,
+                    "y": 6.2158
+                  }
+                ]
+              }
+            ],
+            "content": "Registration Date:",
+            "spans": [
+              {
+                "offset": 519,
+                "length": 18
+              }
+            ],
+            "confidence": 0
+          },
+          "VALUE": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.8435,
+                    "y": 6.0643
+                  },
+                  {
+                    "x": 3.5912,
+                    "y": 6.0643
+                  },
+                  {
+                    "x": 3.5912,
+                    "y": 6.1822
+                  },
+                  {
+                    "x": 2.8435,
+                    "y": 6.1822
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 538,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "NAME_HISTORY": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "PREVIOUS_LEGAL_ENTITY_NAME": {
+            "kind": "string",
+            "value": "2373493 ALBERTA LTD.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8835,
+                    "y": 5.1638
+                  },
+                  {
+                    "x": 2.6682,
+                    "y": 5.1638
+                  },
+                  {
+                    "x": 2.6682,
+                    "y": 5.2788
+                  },
+                  {
+                    "x": 0.8835,
+                    "y": 5.2788
+                  }
+                ]
+              }
+            ],
+            "content": "2373493 ALBERTA LTD.",
+            "spans": [
+              {
+                "offset": 404,
+                "length": 20
+              }
+            ],
+            "confidence": 0
+          },
+          "NAME_OF_DATE_CHANGE": {
+            "kind": "string",
+            "value": "2021/09/13",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.9418,
+                    "y": 5.161
+                  },
+                  {
+                    "x": 3.6828,
+                    "y": 5.161
+                  },
+                  {
+                    "x": 3.6828,
+                    "y": 5.2788
+                  },
+                  {
+                    "x": 2.9418,
+                    "y": 5.2788
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/13",
+            "spans": [
+              {
+                "offset": 425,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "OUTSTANDING_RETURNS": {
+    "kind": "array",
+    "values": [],
+    "confidence": 0
+  },
+  "PRIMARY_AGENT_FOR_SERVICE": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "LAST_NAME": {
+            "kind": "string",
+            "value": "HELM",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.8828,
+                    "y": 9.2197
+                  },
+                  {
+                    "x": 1.348,
+                    "y": 9.2197
+                  },
+                  {
+                    "x": 1.348,
+                    "y": 9.33
+                  },
+                  {
+                    "x": 0.8828,
+                    "y": 9.33
+                  }
+                ]
+              }
+            ],
+            "content": "HELM",
+            "spans": [
+              {
+                "offset": 822,
+                "length": 4
+              }
+            ],
+            "confidence": 0
+          },
+          "FIRST_NAME": {
+            "kind": "string",
+            "value": "NANCY",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 1.4046,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 1.9963,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 1.9963,
+                    "y": 9.3323
+                  },
+                  {
+                    "x": 1.4046,
+                    "y": 9.3323
+                  }
+                ]
+              }
+            ],
+            "content": "NANCY",
+            "spans": [
+              {
+                "offset": 827,
+                "length": 5
+              }
+            ],
+            "confidence": 0
+          },
+          "FIRM_NAME": {
+            "kind": "string",
+            "value": "BENNETT JONES LLP",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 2.6178,
+                    "y": 9.2197
+                  },
+                  {
+                    "x": 3.371,
+                    "y": 9.2197
+                  },
+                  {
+                    "x": 3.371,
+                    "y": 9.7133
+                  },
+                  {
+                    "x": 2.6178,
+                    "y": 9.7133
+                  }
+                ]
+              }
+            ],
+            "content": "BENNETT JONES LLP",
+            "spans": [
+              {
+                "offset": 833,
+                "length": 17
+              }
+            ],
+            "confidence": 0
+          },
+          "STREET": {
+            "kind": "string",
+            "value": "4500, 855 - 2ND STREET S.W.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 3.431,
+                    "y": 9.2173
+                  },
+                  {
+                    "x": 4.0343,
+                    "y": 9.2173
+                  },
+                  {
+                    "x": 4.0343,
+                    "y": 10.099
+                  },
+                  {
+                    "x": 3.431,
+                    "y": 10.099
+                  }
+                ]
+              }
+            ],
+            "content": "4500, 855 - 2ND STREET S.W.",
+            "spans": [
+              {
+                "offset": 851,
+                "length": 27
+              }
+            ],
+            "confidence": 0
+          },
+          "CITY": {
+            "kind": "string",
+            "value": "CALGARY",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 4.0993,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 4.8963,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 4.8963,
+                    "y": 9.3323
+                  },
+                  {
+                    "x": 4.0993,
+                    "y": 9.3323
+                  }
+                ]
+              }
+            ],
+            "content": "CALGARY",
+            "spans": [
+              {
+                "offset": 879,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "PROVINCE": {
+            "kind": "string",
+            "value": "ALBERTA",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 4.953,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 5.7185,
+                    "y": 9.2172
+                  },
+                  {
+                    "x": 5.7185,
+                    "y": 9.33
+                  },
+                  {
+                    "x": 4.953,
+                    "y": 9.33
+                  }
+                ]
+              }
+            ],
+            "content": "ALBERTA",
+            "spans": [
+              {
+                "offset": 887,
+                "length": 7
+              }
+            ],
+            "confidence": 0
+          },
+          "POSTAL_CODE": {
+            "kind": "string",
+            "value": "T2P4K7",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 5.78,
+                    "y": 9.2173
+                  },
+                  {
+                    "x": 6.3327,
+                    "y": 9.2173
+                  },
+                  {
+                    "x": 6.3327,
+                    "y": 9.3322
+                  },
+                  {
+                    "x": 5.78,
+                    "y": 9.3322
+                  }
+                ]
+              }
+            ],
+            "content": "T2P4K7",
+            "spans": [
+              {
+                "offset": 895,
+                "length": 6
+              }
+            ],
+            "confidence": 0
+          },
+          "EMAIL": {
+            "kind": "string",
+            "value": "CALCSDNOTIFICA",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 6.3863,
+                    "y": 9.1857
+                  },
+                  {
+                    "x": 7.7613,
+                    "y": 9.1857
+                  },
+                  {
+                    "x": 7.7613,
+                    "y": 9.3544
+                  },
+                  {
+                    "x": 6.3863,
+                    "y": 9.3544
+                  }
+                ]
+              }
+            ],
+            "content": "CALCSDNOTIFICA",
+            "spans": [
+              {
+                "offset": 908,
+                "length": 14
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "ATTACHMENTS": {
+    "kind": "array",
+    "values": [
+      {
+        "kind": "object",
+        "properties": {
+          "ATTACHMENT_TYPE": {
+            "kind": "string",
+            "value": "Share Structure",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8905,
+                    "y": 7.2577
+                  },
+                  {
+                    "x": 1.9077,
+                    "y": 7.2577
+                  },
+                  {
+                    "x": 1.9077,
+                    "y": 7.3757
+                  },
+                  {
+                    "x": 0.8905,
+                    "y": 7.3757
+                  }
+                ]
+              }
+            ],
+            "content": "Share Structure",
+            "spans": [
+              {
+                "offset": 2465,
+                "length": 15
+              }
+            ],
+            "confidence": 0
+          },
+          "MICROFILM_BAR_CODE": {
+            "kind": "string",
+            "value": "ELECTRONIC",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 3.0335,
+                    "y": 7.2605
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.2605
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.3757
+                  },
+                  {
+                    "x": 3.0335,
+                    "y": 7.3757
+                  }
+                ]
+              }
+            ],
+            "content": "ELECTRONIC",
+            "spans": [
+              {
+                "offset": 2481,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "DATE_RECORDED": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 4.5318,
+                    "y": 7.2577
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.2577
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.3755
+                  },
+                  {
+                    "x": 4.5318,
+                    "y": 7.3755
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 2492,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "ATTACHMENT_TYPE": {
+            "kind": "string",
+            "value": "Restrictions on Share Transfers",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8828,
+                    "y": 7.5027
+                  },
+                  {
+                    "x": 2.9707,
+                    "y": 7.5027
+                  },
+                  {
+                    "x": 2.9707,
+                    "y": 7.6207
+                  },
+                  {
+                    "x": 0.8828,
+                    "y": 7.6207
+                  }
+                ]
+              }
+            ],
+            "content": "Restrictions on Share Transfers",
+            "spans": [
+              {
+                "offset": 2503,
+                "length": 31
+              }
+            ],
+            "confidence": 0
+          },
+          "MICROFILM_BAR_CODE": {
+            "kind": "string",
+            "value": "ELECTRONIC",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 3.0335,
+                    "y": 7.5055
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.5055
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.6207
+                  },
+                  {
+                    "x": 3.0335,
+                    "y": 7.6207
+                  }
+                ]
+              }
+            ],
+            "content": "ELECTRONIC",
+            "spans": [
+              {
+                "offset": 2535,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "DATE_RECORDED": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 4.5318,
+                    "y": 7.5027
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.5027
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.6205
+                  },
+                  {
+                    "x": 4.5318,
+                    "y": 7.6205
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 2546,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      },
+      {
+        "kind": "object",
+        "properties": {
+          "ATTACHMENT_TYPE": {
+            "kind": "string",
+            "value": "Other Rules or Provisions",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 0.8858,
+                    "y": 7.7477
+                  },
+                  {
+                    "x": 2.6007,
+                    "y": 7.7477
+                  },
+                  {
+                    "x": 2.6007,
+                    "y": 7.8657
+                  },
+                  {
+                    "x": 0.8858,
+                    "y": 7.8657
+                  }
+                ]
+              }
+            ],
+            "content": "Other Rules or Provisions",
+            "spans": [
+              {
+                "offset": 2557,
+                "length": 25
+              }
+            ],
+            "confidence": 0
+          },
+          "MICROFILM_BAR_CODE": {
+            "kind": "string",
+            "value": "ELECTRONIC",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 3.0335,
+                    "y": 7.7505
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.7505
+                  },
+                  {
+                    "x": 4.0603,
+                    "y": 7.8657
+                  },
+                  {
+                    "x": 3.0335,
+                    "y": 7.8657
+                  }
+                ]
+              }
+            ],
+            "content": "ELECTRONIC",
+            "spans": [
+              {
+                "offset": 2583,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          },
+          "DATE_RECORDED": {
+            "kind": "string",
+            "value": "2021/09/09",
+            "boundingRegions": [
+              {
+                "pageNumber": 3,
+                "polygon": [
+                  {
+                    "x": 4.5318,
+                    "y": 7.7477
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.7477
+                  },
+                  {
+                    "x": 5.2795,
+                    "y": 7.8655
+                  },
+                  {
+                    "x": 4.5318,
+                    "y": 7.8655
+                  }
+                ]
+              }
+            ],
+            "content": "2021/09/09",
+            "spans": [
+              {
+                "offset": 2594,
+                "length": 10
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }
+    ],
+    "confidence": 0
+  },
+  "HOLDING_SHARES": {
+    "kind": "array",
+    "values": [],
+    "confidence": 0
+  }
+}
