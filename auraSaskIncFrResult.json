@@ -1,0 +1,1407 @@
+{
+    "BASE_INFORMATION": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Number:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 1.6922
+                    },
+                    {
+                      "x": 1.5347,
+                      "y": 1.6922
+                    },
+                    {
+                      "x": 1.5347,
+                      "y": 1.8136
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 1.8136
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Number:",
+              "spans": [
+                {
+                  "offset": 0,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "102155723",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 1.617,
+                      "y": 1.6945
+                    },
+                    {
+                      "x": 2.3051,
+                      "y": 1.6945
+                    },
+                    {
+                      "x": 2.3051,
+                      "y": 1.7903
+                    },
+                    {
+                      "x": 1.617,
+                      "y": 1.7903
+                    }
+                  ]
+                }
+              ],
+              "content": "102155723",
+              "spans": [
+                {
+                  "offset": 15,
+                  "length": 9
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Name:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 1.9264
+                    },
+                    {
+                      "x": 1.3996,
+                      "y": 1.9264
+                    },
+                    {
+                      "x": 1.3996,
+                      "y": 2.0443
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 2.0443
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Name:",
+              "spans": [
+                {
+                  "offset": 25,
+                  "length": 12
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "AURA SASK INC.",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 1.4664,
+                      "y": 1.9254
+                    },
+                    {
+                      "x": 2.5082,
+                      "y": 1.9254
+                    },
+                    {
+                      "x": 2.5082,
+                      "y": 2.021
+                    },
+                    {
+                      "x": 1.4664,
+                      "y": 2.021
+                    }
+                  ]
+                }
+              ],
+              "content": "AURA SASK INC.",
+              "spans": [
+                {
+                  "offset": 38,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Report Date:",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 6.2975,
+                      "y": 1.927
+                    },
+                    {
+                      "x": 7.0775,
+                      "y": 1.927
+                    },
+                    {
+                      "x": 7.0775,
+                      "y": 2.0443
+                    },
+                    {
+                      "x": 6.2975,
+                      "y": 2.0443
+                    }
+                  ]
+                }
+              ],
+              "content": "Report Date:",
+              "spans": [
+                {
+                  "offset": 112,
+                  "length": 12
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "30-Nov-2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 7.1529,
+                      "y": 1.9251
+                    },
+                    {
+                      "x": 7.968,
+                      "y": 1.9251
+                    },
+                    {
+                      "x": 7.968,
+                      "y": 2.021
+                    },
+                    {
+                      "x": 7.1529,
+                      "y": 2.021
+                    }
+                  ]
+                }
+              ],
+              "content": "30-Nov-2022",
+              "spans": [
+                {
+                  "offset": 125,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Type",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 2.759
+                    },
+                    {
+                      "x": 1.2966,
+                      "y": 2.759
+                    },
+                    {
+                      "x": 1.2966,
+                      "y": 2.8769
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 2.8769
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Type",
+              "spans": [
+                {
+                  "offset": 152,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "Business Corporation",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1461,
+                      "y": 2.758
+                    },
+                    {
+                      "x": 5.4515,
+                      "y": 2.758
+                    },
+                    {
+                      "x": 5.4515,
+                      "y": 2.8769
+                    },
+                    {
+                      "x": 4.1461,
+                      "y": 2.8769
+                    }
+                  ]
+                }
+              ],
+              "content": "Business Corporation",
+              "spans": [
+                {
+                  "offset": 164,
+                  "length": 20
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Subtype",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 2.9861
+                    },
+                    {
+                      "x": 1.5111,
+                      "y": 2.9861
+                    },
+                    {
+                      "x": 1.5111,
+                      "y": 3.1075
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 3.1075
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Subtype",
+              "spans": [
+                {
+                  "offset": 185,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "NWP Corporation",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1461,
+                      "y": 2.9886
+                    },
+                    {
+                      "x": 5.1959,
+                      "y": 2.9886
+                    },
+                    {
+                      "x": 5.1959,
+                      "y": 3.1075
+                    },
+                    {
+                      "x": 4.1461,
+                      "y": 3.1075
+                    }
+                  ]
+                }
+              ],
+              "content": "NWP Corporation",
+              "spans": [
+                {
+                  "offset": 200,
+                  "length": 15
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Status",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 3.2193
+                    },
+                    {
+                      "x": 1.3973,
+                      "y": 3.2193
+                    },
+                    {
+                      "x": 1.3973,
+                      "y": 3.3382
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 3.3382
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Status",
+              "spans": [
+                {
+                  "offset": 216,
+                  "length": 13
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "Active",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1355,
+                      "y": 3.2203
+                    },
+                    {
+                      "x": 4.51,
+                      "y": 3.2203
+                    },
+                    {
+                      "x": 4.51,
+                      "y": 3.3147
+                    },
+                    {
+                      "x": 4.1355,
+                      "y": 3.3147
+                    }
+                  ]
+                }
+              ],
+              "content": "Active",
+              "spans": [
+                {
+                  "offset": 230,
+                  "length": 6
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Registration Date",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 3.451
+                    },
+                    {
+                      "x": 1.6783,
+                      "y": 3.451
+                    },
+                    {
+                      "x": 1.6783,
+                      "y": 3.5696
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 3.5696
+                    }
+                  ]
+                }
+              ],
+              "content": "Registration Date",
+              "spans": [
+                {
+                  "offset": 237,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "15-Sep-2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1509,
+                      "y": 3.4497
+                    },
+                    {
+                      "x": 4.9536,
+                      "y": 3.4497
+                    },
+                    {
+                      "x": 4.9536,
+                      "y": 3.5688
+                    },
+                    {
+                      "x": 4.1509,
+                      "y": 3.5688
+                    }
+                  ]
+                }
+              ],
+              "content": "15-Sep-2022",
+              "spans": [
+                {
+                  "offset": 255,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Number in Home Jurisdiction",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 3.6781
+                    },
+                    {
+                      "x": 2.8033,
+                      "y": 3.6781
+                    },
+                    {
+                      "x": 2.8033,
+                      "y": 3.7995
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 3.7995
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Number in Home Jurisdiction",
+              "spans": [
+                {
+                  "offset": 267,
+                  "length": 34
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "10139307",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1509,
+                      "y": 3.6804
+                    },
+                    {
+                      "x": 4.7611,
+                      "y": 3.6804
+                    },
+                    {
+                      "x": 4.7611,
+                      "y": 3.7762
+                    },
+                    {
+                      "x": 4.1509,
+                      "y": 3.7762
+                    }
+                  ]
+                }
+              ],
+              "content": "10139307",
+              "spans": [
+                {
+                  "offset": 302,
+                  "length": 8
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Entity Name in Home Jurisdiction",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 3.9088
+                    },
+                    {
+                      "x": 2.668,
+                      "y": 3.9088
+                    },
+                    {
+                      "x": 2.668,
+                      "y": 4.0301
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 4.0301
+                    }
+                  ]
+                }
+              ],
+              "content": "Entity Name in Home Jurisdiction",
+              "spans": [
+                {
+                  "offset": 311,
+                  "length": 32
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "AURA SASK INC.",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1355,
+                      "y": 3.9113
+                    },
+                    {
+                      "x": 5.1773,
+                      "y": 3.9113
+                    },
+                    {
+                      "x": 5.1773,
+                      "y": 4.0069
+                    },
+                    {
+                      "x": 4.1355,
+                      "y": 4.0069
+                    }
+                  ]
+                }
+              ],
+              "content": "AURA SASK INC.",
+              "spans": [
+                {
+                  "offset": 344,
+                  "length": 14
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Home Jurisdiction",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 4.1394
+                    },
+                    {
+                      "x": 1.6932,
+                      "y": 4.1394
+                    },
+                    {
+                      "x": 1.6932,
+                      "y": 4.2376
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 4.2376
+                    }
+                  ]
+                }
+              ],
+              "content": "Home Jurisdiction",
+              "spans": [
+                {
+                  "offset": 359,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "Manitoba, Canada",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1461,
+                      "y": 4.1394
+                    },
+                    {
+                      "x": 5.2536,
+                      "y": 4.1394
+                    },
+                    {
+                      "x": 5.2536,
+                      "y": 4.2583
+                    },
+                    {
+                      "x": 4.1461,
+                      "y": 4.2583
+                    }
+                  ]
+                }
+              ],
+              "content": "Manitoba, Canada",
+              "spans": [
+                {
+                  "offset": 377,
+                  "length": 16
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Incorporation/Amalgamation Date in Home Jurisdiction",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.5932,
+                      "y": 4.3701
+                    },
+                    {
+                      "x": 3.2984,
+                      "y": 4.3701
+                    },
+                    {
+                      "x": 3.2984,
+                      "y": 4.6201
+                    },
+                    {
+                      "x": 0.5932,
+                      "y": 4.6201
+                    }
+                  ]
+                }
+              ],
+              "content": "Incorporation/Amalgamation Date in Home Jurisdiction",
+              "spans": [
+                {
+                  "offset": 394,
+                  "length": 52
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "22-Jul-2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1437,
+                      "y": 4.3701
+                    },
+                    {
+                      "x": 4.886,
+                      "y": 4.3701
+                    },
+                    {
+                      "x": 4.886,
+                      "y": 4.4682
+                    },
+                    {
+                      "x": 4.1437,
+                      "y": 4.4682
+                    }
+                  ]
+                }
+              ],
+              "content": "22-Jul-2022",
+              "spans": [
+                {
+                  "offset": 447,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "KEY": {
+              "kind": "string",
+              "value": "Nature of Business",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 4.752
+                    },
+                    {
+                      "x": 1.7653,
+                      "y": 4.752
+                    },
+                    {
+                      "x": 1.7653,
+                      "y": 4.8508
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 4.8508
+                    }
+                  ]
+                }
+              ],
+              "content": "Nature of Business",
+              "spans": [
+                {
+                  "offset": 459,
+                  "length": 18
+                }
+              ],
+              "confidence": 0
+            },
+            "VALUE": {
+              "kind": "string",
+              "value": "Hair care and esthetic services",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 4.1461,
+                      "y": 4.7527
+                    },
+                    {
+                      "x": 6.0576,
+                      "y": 4.7527
+                    },
+                    {
+                      "x": 6.0576,
+                      "y": 4.8508
+                    },
+                    {
+                      "x": 4.1461,
+                      "y": 4.8508
+                    }
+                  ]
+                }
+              ],
+              "content": "Hair care and esthetic services",
+              "spans": [
+                {
+                  "offset": 478,
+                  "length": 31
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "REGISTERED_OFFICE_MAILING_ADDRESS": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "PHYSICAL_ADDRESS": {
+              "kind": "string",
+              "value": "2ND FLOOR, 295 BROADWAY, WINNIPEG, Manitoba, Canada, R3C0R9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1752,
+                      "y": 5.3659
+                    },
+                    {
+                      "x": 6.5714,
+                      "y": 5.3659
+                    },
+                    {
+                      "x": 6.5714,
+                      "y": 5.4848
+                    },
+                    {
+                      "x": 2.1752,
+                      "y": 5.4848
+                    }
+                  ]
+                }
+              ],
+              "content": "2ND FLOOR, 295 BROADWAY, WINNIPEG, Manitoba, Canada, R3C0R9",
+              "spans": [
+                {
+                  "offset": 561,
+                  "length": 59
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "AURA SASK INC., 2ND FLOOR, 295 BROADWAY, WINNIPEG, Manitoba, Canada, R3C0R9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.167,
+                      "y": 5.7485
+                    },
+                    {
+                      "x": 7.7198,
+                      "y": 5.7485
+                    },
+                    {
+                      "x": 7.7198,
+                      "y": 5.8673
+                    },
+                    {
+                      "x": 2.167,
+                      "y": 5.8673
+                    }
+                  ]
+                }
+              ],
+              "content": "AURA SASK INC., 2ND FLOOR, 295 BROADWAY, WINNIPEG, Manitoba, Canada, R3C0R9",
+              "spans": [
+                {
+                  "offset": 637,
+                  "length": 75
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS_ATTENTION_TO": {
+              "kind": "string",
+              "value": "IAN RESTALL",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1737,
+                      "y": 6.1335
+                    },
+                    {
+                      "x": 2.9937,
+                      "y": 6.1335
+                    },
+                    {
+                      "x": 2.9937,
+                      "y": 6.2289
+                    },
+                    {
+                      "x": 2.1737,
+                      "y": 6.2289
+                    }
+                  ]
+                }
+              ],
+              "content": "IAN RESTALL",
+              "spans": [
+                {
+                  "offset": 726,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "DIRECTORS_OFFICERS": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "SHAREHOLDERS": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "MIN_MAX_SHAREHOLDERS": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "SHARE_STRUCTURE": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "EVENT_HISTORY": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "TYPE": {
+              "kind": "string",
+              "value": "Business Corporation - Extra-provincial Registration",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.6028,
+                      "y": 2.4647
+                    },
+                    {
+                      "x": 3.8424,
+                      "y": 2.4647
+                    },
+                    {
+                      "x": 3.8424,
+                      "y": 2.5868
+                    },
+                    {
+                      "x": 0.6028,
+                      "y": 2.5868
+                    }
+                  ]
+                }
+              ],
+              "content": "Business Corporation - Extra-provincial Registration",
+              "spans": [
+                {
+                  "offset": 1443,
+                  "length": 52
+                }
+              ],
+              "confidence": 0
+            },
+            "DATE": {
+              "kind": "string",
+              "value": "15-Sep-2022",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 6.1194,
+                      "y": 2.4669
+                    },
+                    {
+                      "x": 6.9221,
+                      "y": 2.4669
+                    },
+                    {
+                      "x": 6.9221,
+                      "y": 2.5861
+                    },
+                    {
+                      "x": 6.1194,
+                      "y": 2.5861
+                    }
+                  ]
+                }
+              ],
+              "content": "15-Sep-2022",
+              "spans": [
+                {
+                  "offset": 1496,
+                  "length": 11
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    },
+    "PREVIOUS_ENTITY_NAMES": {
+      "kind": "array",
+      "values": [],
+      "confidence": 0
+    },
+    "POWER_OF_ATTORNEY": {
+      "kind": "array",
+      "values": [
+        {
+          "kind": "object",
+          "properties": {
+            "NAME": {
+              "kind": "string",
+              "value": "BRENDAN M. L. BERNAKEVITCH",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6022,
+                      "y": 7.0374
+                    },
+                    {
+                      "x": 2.7928,
+                      "y": 7.0374
+                    },
+                    {
+                      "x": 2.7928,
+                      "y": 7.1331
+                    },
+                    {
+                      "x": 0.6022,
+                      "y": 7.1331
+                    }
+                  ]
+                }
+              ],
+              "content": "BRENDAN M. L. BERNAKEVITCH",
+              "spans": [
+                {
+                  "offset": 756,
+                  "length": 26
+                }
+              ],
+              "confidence": 0
+            },
+            "TYPE": {
+              "kind": "string",
+              "value": "(PRIMARY ATTORNEY)",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.8596,
+                      "y": 7.0351
+                    },
+                    {
+                      "x": 4.432,
+                      "y": 7.0351
+                    },
+                    {
+                      "x": 4.432,
+                      "y": 7.1564
+                    },
+                    {
+                      "x": 2.8596,
+                      "y": 7.1564
+                    }
+                  ]
+                }
+              ],
+              "content": "(PRIMARY ATTORNEY)",
+              "spans": [
+                {
+                  "offset": 783,
+                  "length": 18
+                }
+              ],
+              "confidence": 0
+            },
+            "PHYSICAL_ADDRESS": {
+              "kind": "string",
+              "value": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P 4K9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1701,
+                      "y": 7.4964
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 7.4964
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 7.7463
+                    },
+                    {
+                      "x": 2.1701,
+                      "y": 7.7463
+                    }
+                  ]
+                }
+              ],
+              "content": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P\n4K9",
+              "spans": [
+                {
+                  "offset": 820,
+                  "length": 80
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P 4K9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1701,
+                      "y": 7.879
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 7.879
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 8.1289
+                    },
+                    {
+                      "x": 2.1701,
+                      "y": 8.1289
+                    }
+                  ]
+                }
+              ],
+              "content": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P\n4K9",
+              "spans": [
+                {
+                  "offset": 918,
+                  "length": 80
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "NAME": {
+              "kind": "string",
+              "value": "DARREN W. CARLSON",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 0.6022,
+                      "y": 8.2638
+                    },
+                    {
+                      "x": 2.1038,
+                      "y": 8.2638
+                    },
+                    {
+                      "x": 2.1038,
+                      "y": 8.3597
+                    },
+                    {
+                      "x": 0.6022,
+                      "y": 8.3597
+                    }
+                  ]
+                }
+              ],
+              "content": "DARREN W. CARLSON",
+              "spans": [
+                {
+                  "offset": 999,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "PHYSICAL_ADDRESS": {
+              "kind": "string",
+              "value": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P 4K9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1701,
+                      "y": 8.7228
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 8.7228
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 8.9728
+                    },
+                    {
+                      "x": 2.1701,
+                      "y": 8.9728
+                    }
+                  ]
+                }
+              ],
+              "content": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P\n4K9",
+              "spans": [
+                {
+                  "offset": 1035,
+                  "length": 80
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P 4K9",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    {
+                      "x": 2.1701,
+                      "y": 9.1054
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 9.1054
+                    },
+                    {
+                      "x": 7.7729,
+                      "y": 9.3553
+                    },
+                    {
+                      "x": 2.1701,
+                      "y": 9.3553
+                    }
+                  ]
+                }
+              ],
+              "content": "MCDOUGALL GAULEY LLP, 1500-1881 SCARTH ST, REGINA, Saskatchewan, Canada, S4P\n4K9",
+              "spans": [
+                {
+                  "offset": 1133,
+                  "length": 80
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
+        }
+      ],
+      "confidence": 0
+    }
+  }
