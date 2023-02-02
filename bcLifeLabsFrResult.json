@@ -1005,6 +1005,117 @@
             }
           },
           "confidence": 0
+        },
+        {
+          "kind": "object",
+          "properties": {
+            "LAST_FIRST_MIDDLE_NAME": {
+              "kind": "string",
+              "value": "Portnoy, Dave",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2036,
+                      "y": 0.7902
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 0.7902
+                    },
+                    {
+                      "x": 1.343,
+                      "y": 0.9343
+                    },
+                    {
+                      "x": 0.2036,
+                      "y": 0.9343
+                    }
+                  ]
+                }
+              ],
+              "content": "Cudlipp, Jennifer",
+              "spans": [
+                {
+                  "offset": 1182,
+                  "length": 17
+                }
+              ],
+              "confidence": 0
+            },
+            "MAILING_ADDRESS": {
+              "kind": "string",
+              "value": "42 wallaby way ",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 0.2414,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 1.8859,
+                      "y": 1.688
+                    },
+                    {
+                      "x": 0.2414,
+                      "y": 1.688
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY BURNABY BC V5G 4V8 CANADA",
+              "spans": [
+                {
+                  "offset": 1217,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            },
+            "DELIVERY_ADDRESS": {
+              "kind": "string",
+              "value": "221B Baker Street",
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    {
+                      "x": 3.9816,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 1.2289
+                    },
+                    {
+                      "x": 5.6261,
+                      "y": 1.688
+                    },
+                    {
+                      "x": 3.9816,
+                      "y": 1.688
+                    }
+                  ]
+                }
+              ],
+              "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+              "spans": [
+                {
+                  "offset": 1278,
+                  "length": 42
+                }
+              ],
+              "confidence": 0
+            }
+          },
+          "confidence": 0
         }
       ],
       "confidence": 0
@@ -3083,7 +3194,82 @@
     },
     "CONTINUED_OUT_INFORMATION": {
       "kind": "array",
-      "values": [],
+      "values": [{
+        "kind": "object",
+        "properties": {
+          "Jurisdiction": {
+            "kind": "string",
+            "value": "Ontario",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 0.2414,
+                    "y": 7.3408
+                  },
+                  {
+                    "x": 1.8859,
+                    "y": 7.3408
+                  },
+                  {
+                    "x": 1.8859,
+                    "y": 7.7999
+                  },
+                  {
+                    "x": 0.2414,
+                    "y": 7.7999
+                  }
+                ]
+              }
+            ],
+            "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+            "spans": [
+              {
+                "offset": 790,
+                "length": 42
+              }
+            ],
+            "confidence": 0
+          },
+          "Favorite Movie": {
+            "kind": "string",
+            "value": "Hot Fuzz",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  {
+                    "x": 3.9816,
+                    "y": 7.3408
+                  },
+                  {
+                    "x": 5.6261,
+                    "y": 7.3408
+                  },
+                  {
+                    "x": 5.6261,
+                    "y": 7.7999
+                  },
+                  {
+                    "x": 3.9816,
+                    "y": 7.7999
+                  }
+                ]
+              }
+            ],
+            "content": "3680 GILMORE WAY\nBURNABY BC V5G 4V8\nCANADA",
+            "spans": [
+              {
+                "offset": 851,
+                "length": 42
+              }
+            ],
+            "confidence": 0
+          }
+        },
+        "confidence": 0
+      }],
       "confidence": 0
     },
     "STATUS_DETAILS": {
@@ -3091,3 +3277,5 @@
       "confidence": 0.843
     }
   }
+
+  
