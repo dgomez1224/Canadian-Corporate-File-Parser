@@ -10,7 +10,7 @@ const formatBC = (unformattedData) => {
   let obj = {};
 
   for (const property in unformattedData) {
-    console.log("property ", property);
+   
     //Check to see if property has a values array and the array is empty and if it is set property value to null
     if (
       unformattedData[property].values &&
@@ -35,13 +35,20 @@ const formatBC = (unformattedData) => {
           unformattedData.REGISTERED_OFFICE_INFORMATION.values;
 
         obj[property] = {};
-
         staticKeyPairsHelper(obj[property], registeredOfficeInfo);
+
+        //Refactored output for reduce method 
+        // obj[property] = staticKeyPairsHelper(obj[property], registeredOfficeInfo)
+
       } else if (property === "RECORDS_OFFICE_INFORMATION") {
         const recordsOfficeInfo =
           unformattedData.RECORDS_OFFICE_INFORMATION.values;
+        
         obj[property] = {};
         staticKeyPairsHelper(obj[property], recordsOfficeInfo);
+
+        //Refactored output for reduce method 
+        // obj[property] = staticKeyPairsHelper(obj[property], recordsOfficeInfo)
 
       } else if (property === "DIRECTOR_INFORMATION") {
         const directorInfo = unformattedData.DIRECTOR_INFORMATION.values;
@@ -82,6 +89,9 @@ const formatBC = (unformattedData) => {
 
         obj[property] = {};
         staticKeyPairsHelper(obj[property], continuedOutInfo)
+
+        //Refactored output for reduce method
+        // obj[property] = staticKeyPairsHelper(obj[property], continuedOutInfo)
       }
     }
     //   console.log(`${property}: ${unformattedData[property]}`);

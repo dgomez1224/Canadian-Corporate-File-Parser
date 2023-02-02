@@ -39,26 +39,35 @@ const formatON = (unformattedData) => {
         const activeDirectorsNumber =
           unformattedData.ACTIVE_DIRECTORS_NUMBER.values;
 
-        obj[property] = {};
-        staticKeyPairsHelper(obj[property], activeDirectorsNumber);
+          obj[property] = {}
+          staticKeyPairsHelper(obj[property], activeDirectorsNumber)
+        
+        //Refactored output for reduce method  
+        // obj[property] = staticKeyPairsHelper(activeDirectorsNumber);
+        
       } else if (property === "CORPORATE_NAME_HISTORY") {
         const corporateNameHistory = unformattedData.CORPORATE_NAME_HISTORY.values;
 
         obj[property] = [];
 
         arrayOfObjectsHelper(obj[property], corporateNameHistory);
-      } else if (property === "AMALGAMATING_CORPORATIONS") {
+      }
+      //Need sample data for this case
+      else if (property === "AMALGAMATING_CORPORATIONS") {
         const amalgamatingCorpInfo =
           unformattedData.AMALGAMATING_CORPORATIONS.values;
 
         obj[property] = [];
-        arrayOfObjectsHelper(obj[property], amalgamatingCorpInfo);
-      } else if (property === "ACTIVE_BUSINESS_NAMES") {
+        /*Insert corresponding function*/ (obj[property], amalgamatingCorpInfo);
+      }
+      //Need sample data for this case
+      else if (property === "ACTIVE_BUSINESS_NAMES") {
         const activeBusinessNames =
           unformattedData.ACTIVE_BUSINESS_NAMES.values;
 
         obj[property] = {};
-        staticKeyPairsHelper(obj[property], activeBusinessNames);
+        /*Insert corresponding function*/ (obj[property], activeBusinessNames);
+        
       }
     }
     //   console.log(`${property}: ${unformattedData[property]}`);

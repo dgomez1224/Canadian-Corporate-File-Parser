@@ -72,11 +72,18 @@ const formatAB = (unformattedData) => {
 
         obj[property] = {};
         staticKeyPairsHelper(obj[property], lastAnnualReturn);
+
+        //Refactored output for reduce method 
+        //onj[property] = staticKeyPairsHelper(filingHistory)
+
       } else if (property === "FILING_HISTORY") {
         const filingHistory = unformattedData.FILING_HISTORY.values;
 
         obj[property] = {};
         staticKeyPairsHelper(obj[property], filingHistory);
+
+        //Refactored output for reduce method 
+        //onj[property] = staticKeyPairsHelper(filingHistory)
       } else if (property === "LEGAL_ENTITY_STATUS") {
         const legalEntityStatus = unformattedData.LEGAL_ENTITY_STATUS.values;
 
@@ -99,6 +106,9 @@ const formatAB = (unformattedData) => {
 
         obj[property] = {};
         staticKeyPairsHelper(obj[property], primaryAgent);
+
+        //Refactored output for reduce method 
+        //onj[property] = staticKeyPairsHelper(filingHistory)
       } else if (property === "ATTACHMENTS") {
         const attachments = unformattedData.ATTACHMENTS.values;
 
