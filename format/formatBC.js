@@ -37,8 +37,7 @@ const formatBC = (unformattedData) => {
         obj[property] = {};
         staticKeyPairsHelper(obj[property], registeredOfficeInfo);
 
-        //Refactored output for reduce method 
-        // obj[property] = staticKeyPairsHelper(obj[property], registeredOfficeInfo)
+        
 
       } else if (property === "RECORDS_OFFICE_INFORMATION") {
         const recordsOfficeInfo =
@@ -47,8 +46,6 @@ const formatBC = (unformattedData) => {
         obj[property] = {};
         staticKeyPairsHelper(obj[property], recordsOfficeInfo);
 
-        //Refactored output for reduce method 
-        // obj[property] = staticKeyPairsHelper(obj[property], recordsOfficeInfo)
 
       } else if (property === "DIRECTOR_INFORMATION") {
         const directorInfo = unformattedData.DIRECTOR_INFORMATION.values;
@@ -90,8 +87,6 @@ const formatBC = (unformattedData) => {
         obj[property] = {};
         staticKeyPairsHelper(obj[property], continuedOutInfo)
 
-        //Refactored output for reduce method
-        // obj[property] = staticKeyPairsHelper(obj[property], continuedOutInfo)
       }
     }
     //   console.log(`${property}: ${unformattedData[property]}`);

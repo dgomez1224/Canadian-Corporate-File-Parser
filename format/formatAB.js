@@ -1,5 +1,4 @@
 const json = require('../albertaIncFrResult.json')
-const ontario = require('../ontarioIncFrResult.json')
 const {
   dynamicKeyValuePairsHelper,
   staticKeyPairsHelper,
@@ -37,13 +36,12 @@ const formatAB = (unformattedData) => {
       //Need sample data for this case
       else if (property === 'RECORDS_ADDRESS') {
         const recordsAddress = unformattedData.RECORDS_ADDRESS.values
-        //This structure of creating an empty array that will store an array of objects will be repeated for properties whose requested keys are repeated thru the input array. The object property will be added to the overall object and its key will be an array of objects.
 
-        obj[property] = [](
-          /*Insert corresponding function*/ obj[property],
-          recordsAddress,
-        )
-        //similar to the previous for loops but the object is inside the for loop since the values would be overwritten because of repeated keys. Inside the for loop it creates the object then pushes it to the array before moving on to the next value.
+
+        obj[property] = {}
+          
+        dynamicKeyValuePairsHelper(obj[property], recordsAddress)
+        
       } else if (property === 'EMAIL') {
         const email = unformattedData.EMAIL.values
         obj[property] = {}
@@ -72,8 +70,6 @@ const formatAB = (unformattedData) => {
         obj[property] = {};
         staticKeyPairsHelper(obj[property], lastAnnualReturn);
 
-        //Refactored output for reduce method 
-        //obj[property] = staticKeyPairsHelper(filingHistory)
 
       } else if (property === "FILING_HISTORY") {
         const filingHistory = unformattedData.FILING_HISTORY.values;
@@ -81,8 +77,6 @@ const formatAB = (unformattedData) => {
         obj[property] = {};
         staticKeyPairsHelper(obj[property], filingHistory);
 
-        //Refactored output for reduce method 
-        //obj[property] = staticKeyPairsHelper(filingHistory)
       } else if (property === "LEGAL_ENTITY_STATUS") {
         const legalEntityStatus = unformattedData.LEGAL_ENTITY_STATUS.values;
 
@@ -98,16 +92,14 @@ const formatAB = (unformattedData) => {
       else if (property === 'OUTSTANDING_RETURNS') {
         const outstandingReturns = unformattedData.OUTSTANDING_RETURNS.values
 
-        obj[property] = {}
-        /*Insert corresponding function*/ obj[property], outstandingReturns
+        obj[property] = []
+        arrayOfObjectsHelper(obj[property], outstandingReturns)
       } else if (property === 'PRIMARY_AGENT_FOR_SERVICE') {
         const primaryAgent = unformattedData.PRIMARY_AGENT_FOR_SERVICE.values
 
         obj[property] = {};
         staticKeyPairsHelper(obj[property], primaryAgent);
 
-        //Refactored output for reduce method 
-        //obj[property] = staticKeyPairsHelper(filingHistory)
       } else if (property === "ATTACHMENTS") {
         const attachments = unformattedData.ATTACHMENTS.values;
 
@@ -118,8 +110,8 @@ const formatAB = (unformattedData) => {
       else if (property === 'HOLDING_SHARES') {
         const holdingShares = unformattedData.HOLDING_SHARES.values
 
-        obj[property] = {}
-        /*Insert corresponding function*/ obj[property], holdingShares
+        obj[property] = []
+        arrayOfObjectsHelper(obj[property], holdingShares)
       }
     }
   }
@@ -128,6 +120,6 @@ const formatAB = (unformattedData) => {
   //   return obj;
 }
 
-formatAB(json)
+// formatAB(json)
 
 module.exports = formatAB

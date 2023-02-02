@@ -42,8 +42,6 @@ const formatON = (unformattedData) => {
           obj[property] = {}
           staticKeyPairsHelper(obj[property], activeDirectorsNumber)
         
-        //Refactored output for reduce method  
-        // obj[property] = staticKeyPairsHelper(activeDirectorsNumber);
         
       } else if (property === "CORPORATE_NAME_HISTORY") {
         const corporateNameHistory = unformattedData.CORPORATE_NAME_HISTORY.values;
@@ -58,15 +56,15 @@ const formatON = (unformattedData) => {
           unformattedData.AMALGAMATING_CORPORATIONS.values;
 
         obj[property] = [];
-        /*Insert corresponding function*/ (obj[property], amalgamatingCorpInfo);
+        arrayOfObjectsHelper(obj[property], amalgamatingCorpInfo);
       }
       //Need sample data for this case
       else if (property === "ACTIVE_BUSINESS_NAMES") {
         const activeBusinessNames =
           unformattedData.ACTIVE_BUSINESS_NAMES.values;
 
-        obj[property] = {};
-        /*Insert corresponding function*/ (obj[property], activeBusinessNames);
+        obj[property] = [];
+        arrayOfObjectsHelper(obj[property], activeBusinessNames);
         
       }
     }
@@ -77,6 +75,6 @@ const formatON = (unformattedData) => {
 //   return obj;
 };
 
-formatON(json);
+// formatON(json);
 
 module.exports = formatON;
