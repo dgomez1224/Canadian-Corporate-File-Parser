@@ -2,6 +2,8 @@ exports.PROVINCES = {
   AB: 'ALBERTA',
   BC: 'BRITISH_COLUMBIA',
   ON: 'ONTARIO',
+  NS: "NOVA_SCOTIA",
+  SK: "SASKATCHEWAN"
 }
 
 /*
