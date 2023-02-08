@@ -7,6 +7,10 @@ const ontarioBNBot = async (companyName) => {
   const browser = await openBrowser()
   console.log({ browser })
 
+  // test URL
+  // https://beta.canadasbusinessregistries.ca/search/results?search=%7BAIR%20CANADA%7D&status=Active
+  // base url to put in .env -> https://beta.canadasbusinessregistries.ca/search
+
   const companyNameConvertedToUrl = companyName.split(' ').join('%20')
   console.log({ companyNameConvertedToUrl })
   const navigateTo =
