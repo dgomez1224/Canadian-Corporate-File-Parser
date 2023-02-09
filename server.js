@@ -1,10 +1,13 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 require('dotenv').config()
-
 const documentSplitter = require('./documentSplitter')
 const runOCR = require('./ocr/runOCR')
 const ontarioBNBot = require('./bot/ontarioBnBot')
+const federalCorpBot = require('./bot/federalCorpBot')
+const fs = require('fs')
+
+const pdfPath = './pdf/Corporate-Profile_Profil-corporatif.pdf'
 
 const app = express()
 const port = 3000
@@ -49,6 +52,24 @@ app.post('/test-bot', async (req, res) => {
   res.status(200).send('Testing bot...')
 
   await ontarioBNBot(companyName)
+})
+
+app.post('/test-bot2', async (req, res) => {
+  const { companyName } = req.body
+  console.log('Testing bot for', companyName)
+
+  res.status(200).send('Testing bot...')
+
+  //Runs the bot and then converts the pdf to base64
+  await federalCorpBot(companyName).then(() => {
+    setTimeout(() => {
+      fs.readFile(pdfPath, (err, pdfFile) => {
+        if (err) throw err;
+        const pdfBase64 = pdfFile.toString("base64");
+        console.log(pdfBase64);
+      });
+    }, 3000); // wait for 3 seconds for PDF to be saved locally
+  });
 })
 
 app.listen(port, () => {
